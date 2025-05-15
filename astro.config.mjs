@@ -54,6 +54,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://belgee.alexsab.ru',
+	site: 'https://belgee-smr.ru',
 	base: "/"
 });
