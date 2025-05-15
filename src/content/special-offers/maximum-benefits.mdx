@@ -1,28 +1,24 @@
 ---
-h1: "Актуальные спецпредложения на покупку автомобилей Belgee"
-title: "Актуальные спецпредложения на покупку автомобилей Belgee"
-caption: "Актуальные спецпредложения на покупку автомобилей Belgee"
-breadcrumb: "Актуальные спецпредложения на покупку автомобилей Belgee"
-pubDate: "2025-05-01"
+h1: Максимальная выгода на автомобили Белджи
+title: Максимальная выгода на автомобили Белджи
+breadcrumb: Максимальная выгода на автомобили Белджи
+pubDate: 2025-05-01
 image: https://cdn.alexsab.ru/specials/belgee/maximum-benefits/thumb_600x338.webp
-description: "Воспользуйтесь специальным предложением при приобретении автомобиля Belgee"
+description: "Belgee Партнер Самара представляет выгоду при приобретении новых автомобилей с использованием кредитных средств, программ Трейд-ин и программы Белджи Финанс для покупки авто"
 ---
 import Button from '@/components/Button/Button.astro';
-import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import settings from '@/data/settings.json';
-export const { site_name, phone_common } = settings;
+export const { site_name, phone_common, legal_city_where } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
-import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+import { FIRST_DAY, LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
-export const dateFrom = '01.07.2024';
-export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
-export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
-export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+export const from = `${FIRST_DAY}.${MONTH}.${YEAR}`;
+export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 <picture>
-	<source media="(min-width: 942px)" srcset="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner_1920x1080.webp" />
-	<source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner_1080x720.webp" />
-	<img src="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner_1920x1080.webp" class="w-full mb-10" alt="Выгода на автомобили Белджи" />
+    <source media="(min-width: 942px)" srcset="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner_1920x1080.webp" />
+    <source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner_1080x720.webp" />
+    <img src="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner_1920x1080.webp" class="w-full mb-10" alt="Выгода на автомобили Белджи" />
 </picture>
 
 **Специальная выгода**: 
@@ -125,11 +121,11 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 
 > ООО «ДЖИЛИ-МОТОРС» вправе изменить сроки и условия Программ. Подробные условия уточняйте по тел. <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>.
 
-> Максимальная цена перепродажи носит информационный характер и не является публичной офертой. Программа действует с {dateFrom}г. по {dateTo}г.
+> Максимальная цена перепродажи носит информационный характер и не является публичной офертой. Программа действует с {from}г. по {to}г.
 
-> <sup>*</sup>Максимальная цена перепродажи с учетом применимых выгод состоит из выгоды, применяемой к цене автомобиля1 и выгоды по программе «Трейд-ин»2 на автомобили 2024г. производства. Настоящее предложение, включая любые сведения о предоставляемой выгоде, носит исключительно информационный характер, не является офертой, подробности уточняйте в дилерских центрах «Belgee». Предложение действительно с {dateFrom}г. по {dateTo}г.
+> <sup>*</sup>Максимальная цена перепродажи с учетом применимых выгод состоит из выгоды, применяемой к цене автомобиля1 и выгоды по программе «Трейд-ин»2 на автомобили 2024г. производства. Настоящее предложение, включая любые сведения о предоставляемой выгоде, носит исключительно информационный характер, не является офертой, подробности уточняйте в дилерских центрах «Belgee». Предложение действительно с {from}г. по {to}г.
 
 
-> <sup>1</sup>Выгода, применяемая к цене автомобиля 2024г. производства, предоставляется Дилером покупателю от розничной цены автомобиля. Программа действует с {dateFrom}г. по {dateTo}г.
+> <sup>1</sup>Выгода, применяемая к цене автомобиля 2024г. производства, предоставляется Дилером покупателю от розничной цены автомобиля. Программа действует с {from}г. по {to}г.
 
-> <sup>2</sup>Выгода по программе «Трейд-ин» — это единовременная и разовая скидка, предоставляется Дилером покупателю от розничной цены автомобиля, приобретаемого по Программе, при сдаче в трейд-ин автомобиля с пробегом. Программа действует с {dateFrom}г. по {dateTo}г.
+> <sup>2</sup>Выгода по программе «Трейд-ин» — это единовременная и разовая скидка, предоставляется Дилером покупателю от розничной цены автомобиля, приобретаемого по Программе, при сдаче в трейд-ин автомобиля с пробегом. Программа действует с {from}г. по {to}г.
