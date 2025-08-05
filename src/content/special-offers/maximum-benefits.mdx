@@ -9,6 +9,7 @@ image: https://cdn.alexsab.ru/specials/belgee/maximum-benefits/thumb_08.webp
 description: "Воспользуйтесь специальным предложением с 01 по {{lastDay}} {{monthGenitive}} при приобретении автомобиля Belgee в {{legal_city_where}}"
 ---
 import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import settings from '@/data/settings.json';
 export const { site_name, brand, phone_common, legal_city_where } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
