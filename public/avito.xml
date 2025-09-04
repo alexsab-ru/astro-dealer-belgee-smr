@@ -206,7 +206,7 @@
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>1b19f2e2712a21ebec1bb3bbd85c1312</Id>
+		<Id>232f94f63b4d9b72f4c7e4ae1b3f0bab</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -266,7 +266,7 @@
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z4SB924847</VIN>
+		<VIN>Y4K8622Z3SB924838</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -334,7 +334,7 @@
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>232f94f63b4d9b72f4c7e4ae1b3f0bab</Id>
+		<Id>1b19f2e2712a21ebec1bb3bbd85c1312</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -394,7 +394,7 @@
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z3SB924838</VIN>
+		<VIN>Y4K8622Z4SB924847</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -803,7 +803,25 @@
 		<InsuranceDiscount />
 		<MaxDiscount>630000</MaxDiscount>
 		<Color>Серый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/459cca3ce407cc3303b85a44b4a33464.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/9184819e48a01eedf0c45edd9fa27bff.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/f2044d8a69e1aab706980a8c95f29e9b.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/0c2f103e718885a133211b5752d161b8.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/62f9a599eeabbbcecd9d93b762dd03ac.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/226cfc70a1b88d38944e01fbd0cebd32.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/9261ea56ed99cebd9a9e0a606b4a645f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/adde26007d527490254352971757c62f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/a1f3ee93b341adfd01da1978ea8d3f83.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/b9391e3fe44d106230671faec5669d5c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/6fc6d2b09ff617ca196c58a993d99c6a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/815b7824d34e1f327ac12ae9802baa5f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/3d3981010480a980a3c9e8611cbb9e37.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/774d9c0029e8c8c65e744a43a3fb9399.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/06a18e3f3f7a3ea69a45e0a8aa028ae6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/e023cf829f783d60daec19acf8fe9c71.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D7SB316466/22373387cddf79188c5dfe1ab60d8df4.jpeg" />
+		</Images>
 		<Make>Belgee</Make>
 		<Model>X70</Model>
 		<GenerationId>22038108</GenerationId>
@@ -868,7 +886,25 @@
 		<InsuranceDiscount />
 		<MaxDiscount>630000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/37822212c2b2d9cdafb35b07386a1aa0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/b8314fd94bf16f7eee7c04e3f2a3477d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/311b574a77ae89b52bcd8783ff8da26a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/39502e4617827b20439cbf73f6f3dd65.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/9734ad8c59fca2bb962e70e64832f3e1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/516dfd267e11811eadcb40a0a26cbb1f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/3f7d8cadd8eaea1ba969e7d37b7f1416.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/68480432ae9093114dcf1bdd0100e267.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/d9fbc416bc8fb822790df56ab44d77da.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/a17ec50b2d59ef402a3c88adb2deb297.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/92f19a63b58e4a084fe776cc0f5aa112.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/707194e528007f194866fdbf334969d2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/31dab385fde71527859cfe42503c02ac.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/a9d5f0266d9a0d765dfc9d15a9ae8cd5.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/dd584e6e3f8465e9b8710182bc581c5c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/236020c6a1c86c5f1689949226a83df4.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB313923/4acd9b09910fd31133ebc7d497a9485c.jpeg" />
+		</Images>
 		<Make>Belgee</Make>
 		<Model>X70</Model>
 		<GenerationId>22038108</GenerationId>
