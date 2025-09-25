@@ -1313,7 +1313,27 @@ Belgee Партнер-Авто — автосалон, который забот
 		<InsuranceDiscount />
 		<MaxDiscount>995000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/09e2bce0b58d259cd43cb5e4ca2bbf14.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/9a78ad30bd8af52ae874091a8b234474.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/f77ab1062a3e0003cda96df40e9e7f2f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/2ad0413f5ce78ee2bca277923219d397.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/8183c6b773ce3c8a60cfb04eeab3a104.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/c09ef7868364e2c2c33eb4d1f06e8e3e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/8c3dd354a5cc0beb92119d9b6a8b9137.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/055881e5ed1ae0637a1ee6f482c7a619.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/df4ee27b2685dbe822392044f4ebd716.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/918d9809ee4e8620f2546665745132a5.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/79f7c7216e4fbabec35bfbefa5afee8c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/4bf82a0440a99f00301efb4f52431f3e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/2b5aa6888cd5d77cec059940e9a337de.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/f7836d3c3a6adc8009d7b040d3d17084.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/24c64d8aac1f0474f7c05df17c48b539.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/0ff8dcd43a2f09291f652d0f27e61a5c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/0356dea50c8719379355f74cc4dd2ee3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/600e2a579994df3086f9ce0f7a486d85.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXSB302447/b5bcaa601981843abe7fa3689173d7d0.jpeg" />
+		</Images>
 		<Make>Belgee</Make>
 		<Model>X70</Model>
 		<GenerationId>22038108</GenerationId>
