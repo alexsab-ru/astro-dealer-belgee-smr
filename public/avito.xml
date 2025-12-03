@@ -1,81 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
-		<Id>838e335dc18b64245d3bd95e1519ce32</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 300 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 100 000₽
-- Персональные скидки до 100 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
-
-Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
-		<Price>2089990</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount>201000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>351000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/444415a4170ef431770c21f09e067171.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/86f577c3ef6fbbd0314ba80f2873d3bb.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/f5b668ad179cb63d89c04a2de96861cc.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a5c0f7c17a01496ab94c99db3efb9f94.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/258f1a1147c379e801bd4fda0cabac08.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/0b85b6ebce249361faafa35b8f497eb5.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/2c3435773311848bd1fb4574c6c8bada.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/93d788a0b09e86db24f4f441945e339e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/5474c177f37db345e7327e7f11b9c00d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/676c3a596fe898b23c56f80be0536194.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/1fe3bade46502adad794803950aba19b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/fcf5c77695ab5a63a6d12a6215c7d268.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/beb9bde8c31d74a721f89236de6e1a82.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/e6bbafaa1139bb46bd3882a0038d91bd.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/b19f412ffd3ca030e89a4ad5634df62b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a382ba40d3ae5da0c86feed9a29286c8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/910534704ddbc49743012945b8ad0b27.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/9024c738f0e98eee8d50529218edba13.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/09aa7ccdaea9848b9158a900beab424a.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>S50</Model>
-		<GenerationId>22428694</GenerationId>
-		<ModificationId>22428695</ModificationId>
-		<ComplectationId>22428696</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Механика</Transmission>
-		<Year>2025</Year>
-		<Doors>4</Doors>
-		<BodyType>Седан</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8824Z6SB206126</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>ef5e7d63970aaccfdf2c84c9c6ed7b64</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -152,6 +76,82 @@ Belgee Партнер-Авто — автосалон, который забот
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>838e335dc18b64245d3bd95e1519ce32</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
+		<Price>2089990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>201000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>351000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/444415a4170ef431770c21f09e067171.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/86f577c3ef6fbbd0314ba80f2873d3bb.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/f5b668ad179cb63d89c04a2de96861cc.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a5c0f7c17a01496ab94c99db3efb9f94.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/258f1a1147c379e801bd4fda0cabac08.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/0b85b6ebce249361faafa35b8f497eb5.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/2c3435773311848bd1fb4574c6c8bada.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/93d788a0b09e86db24f4f441945e339e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/5474c177f37db345e7327e7f11b9c00d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/676c3a596fe898b23c56f80be0536194.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/1fe3bade46502adad794803950aba19b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/fcf5c77695ab5a63a6d12a6215c7d268.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/beb9bde8c31d74a721f89236de6e1a82.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/e6bbafaa1139bb46bd3882a0038d91bd.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/b19f412ffd3ca030e89a4ad5634df62b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a382ba40d3ae5da0c86feed9a29286c8.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/910534704ddbc49743012945b8ad0b27.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/9024c738f0e98eee8d50529218edba13.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/09aa7ccdaea9848b9158a900beab424a.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>S50</Model>
+		<GenerationId>22428694</GenerationId>
+		<ModificationId>22428695</ModificationId>
+		<ComplectationId>22428696</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Механика</Transmission>
+		<Year>2025</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8824Z6SB206126</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>09160e1541c31808f274ef2e7d15bcc5</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -222,82 +222,6 @@ Belgee Партнер-Авто — автосалон, который забот
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8622Z5SB942838</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>236ab93b97aeeb58ab95ee75fdcae99e</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 350 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 285 000₽
-- Персональные скидки до 350 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
-
-Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
-		<Price>2690190</Price>
-		<TradeinDiscount>140000</TradeinDiscount>
-		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>450000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/50db547eb927c55b15e462529ac842a2.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/05cb2e67b44af6771137544ec2f59af4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/058872fedf94c0df188f4af996613ecb.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/a96d4bf2f5742a4a200ab744e3c20770.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/b54198d4c5fa65f72d5d99fe566851b4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/b810e4c36c3b23ac7c4135db8a4a8d15.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/7041a56d1959ff473ca106cb518671ba.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/e10ca2761879613e2322e100b8708798.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/06848c499fa7ce9db8aa92bd8d966244.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/4d75ac2c486d74ac1fe125e94e619d52.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/426a6f9cd5fb8591f0dfed0486bba84d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/6cc129653cfce87f631f8599ce394bd1.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/31eee9b78922abcc835a0f512b0936e6.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/17553eb8d7ab806bff0a47409e11b585.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/aa51e94225899a7e93ff1b0c015a2c84.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/d54a4b6c05d49b73396cd6306fead2af.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/12999a2b8dfaa9ecedb6060f3796ba82.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/d7c54da6c8ad34670187fb7cf7e6d9b1.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/b22a9e8b636be103724333e882109d3b.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50</Model>
-		<GenerationId>18720814</GenerationId>
-		<ModificationId>18720815</ModificationId>
-		<ComplectationId>18720818</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2025</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z5SB942824</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -405,81 +329,6 @@ Belgee Партнер-Авто — автосалон, который забот
 		
 		
 		
-	<Id>7c12466f75ca2f39facf300c82a5b894</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 300 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 100 000₽
-- Персональные скидки до 100 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
-
-Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2089990</Price><TradeinDiscount>150000</TradeinDiscount><CreditDiscount>201000</CreditDiscount><InsuranceDiscount /><MaxDiscount>351000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/444415a4170ef431770c21f09e067171.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/86f577c3ef6fbbd0314ba80f2873d3bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/f5b668ad179cb63d89c04a2de96861cc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a5c0f7c17a01496ab94c99db3efb9f94.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/258f1a1147c379e801bd4fda0cabac08.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/0b85b6ebce249361faafa35b8f497eb5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/2c3435773311848bd1fb4574c6c8bada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/93d788a0b09e86db24f4f441945e339e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/5474c177f37db345e7327e7f11b9c00d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/676c3a596fe898b23c56f80be0536194.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/1fe3bade46502adad794803950aba19b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/fcf5c77695ab5a63a6d12a6215c7d268.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/beb9bde8c31d74a721f89236de6e1a82.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/e6bbafaa1139bb46bd3882a0038d91bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/b19f412ffd3ca030e89a4ad5634df62b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a382ba40d3ae5da0c86feed9a29286c8.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/910534704ddbc49743012945b8ad0b27.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/9024c738f0e98eee8d50529218edba13.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/09aa7ccdaea9848b9158a900beab424a.jpg" /></Images><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428695</ModificationId><ComplectationId>22428696</ComplectationId><FuelType>Бензин</FuelType><Transmission>Механика</Transmission><Year>2025</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z6SB206127</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>b5aa50b93c7297e033db190134fe49e6</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
@@ -526,6 +375,81 @@ Belgee Партнер-Авто — автосалон, который забот
 			
 			
 		<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/fb28ebf683217cbfff91dd21fa7ec42d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/7f299f4ff25ede41f942b6357cdc3b8c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/8bc5f1a3cf63b7c0e9d46147ba65e414.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/4025c1d8059d5097449b15fe1b49636b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/5599b8d2eab581cd58d0e2ed5f8429b7.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/bfc7720a90a4510eb0f0e44e297a7c40.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/c9780fdf934c5974a096c139d14635cd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/20b6208d42d75638f0828ce1fd5e0620.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/b67a1e858416a9840d5d803b3780737f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/4eaf3821cd68a2b5f6615a14b21a06b1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/ed005009067763a256afde35a5127682.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/793e7c2ad106cd659f3cca01ae91be7f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/2198a4716c67e5ed0d0e21a9d266a2ca.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/ce5ac9d4f1249a837e14dcc9c402896e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/774229517169f0977f43c4247a51acd5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/a5e584f99578578f709076e2aa5b48a3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/c60b4e6be9f2f4dcea042e5dcb85462b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/51d6795d26ebe4f5fe89e018cb30a64d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206093/dd6906637001e439438f608836cd9bb5.jpg" /></Images><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428695</ModificationId><ComplectationId>22428696</ComplectationId><FuelType>Бензин</FuelType><Transmission>Механика</Transmission><Year>2025</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z6SB206094</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>7c12466f75ca2f39facf300c82a5b894</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2089990</Price><TradeinDiscount>150000</TradeinDiscount><CreditDiscount>201000</CreditDiscount><InsuranceDiscount /><MaxDiscount>351000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/444415a4170ef431770c21f09e067171.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/86f577c3ef6fbbd0314ba80f2873d3bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/f5b668ad179cb63d89c04a2de96861cc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a5c0f7c17a01496ab94c99db3efb9f94.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/258f1a1147c379e801bd4fda0cabac08.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/0b85b6ebce249361faafa35b8f497eb5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/2c3435773311848bd1fb4574c6c8bada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/93d788a0b09e86db24f4f441945e339e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/5474c177f37db345e7327e7f11b9c00d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/676c3a596fe898b23c56f80be0536194.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/1fe3bade46502adad794803950aba19b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/fcf5c77695ab5a63a6d12a6215c7d268.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/beb9bde8c31d74a721f89236de6e1a82.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/e6bbafaa1139bb46bd3882a0038d91bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/b19f412ffd3ca030e89a4ad5634df62b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a382ba40d3ae5da0c86feed9a29286c8.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/910534704ddbc49743012945b8ad0b27.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/9024c738f0e98eee8d50529218edba13.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/09aa7ccdaea9848b9158a900beab424a.jpg" /></Images><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428695</ModificationId><ComplectationId>22428696</ComplectationId><FuelType>Бензин</FuelType><Transmission>Механика</Transmission><Year>2025</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z6SB206127</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -629,81 +553,6 @@ Belgee Партнер-Авто — автосалон, который забот
 		
 		
 		
-	<Id>d4d934c87c694bff3ed68a4e73d6f3fe</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 350 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 285 000₽
-- Персональные скидки до 350 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
-
-Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/50db547eb927c55b15e462529ac842a2.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/05cb2e67b44af6771137544ec2f59af4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/058872fedf94c0df188f4af996613ecb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/a96d4bf2f5742a4a200ab744e3c20770.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/b54198d4c5fa65f72d5d99fe566851b4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/b810e4c36c3b23ac7c4135db8a4a8d15.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/7041a56d1959ff473ca106cb518671ba.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/e10ca2761879613e2322e100b8708798.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/06848c499fa7ce9db8aa92bd8d966244.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/4d75ac2c486d74ac1fe125e94e619d52.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/426a6f9cd5fb8591f0dfed0486bba84d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/6cc129653cfce87f631f8599ce394bd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/31eee9b78922abcc835a0f512b0936e6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/17553eb8d7ab806bff0a47409e11b585.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/aa51e94225899a7e93ff1b0c015a2c84.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/d54a4b6c05d49b73396cd6306fead2af.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/12999a2b8dfaa9ecedb6060f3796ba82.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/d7c54da6c8ad34670187fb7cf7e6d9b1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/b22a9e8b636be103724333e882109d3b.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z5SB942825</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>8744c0f0b68d37a98752ca26fb0996a4</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
@@ -747,81 +596,6 @@ Belgee Партнер-Авто — автосалон, который забот
 			
 			
 		<Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/9fd2edffed2f79752e99ce17e64f456a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/caf0b15f22d13bc8ab916c309ac82fd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/934f9d08f714c0b582821fd4303da376.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/193f316937fd212055e6892b128162f6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/7e282cd7928c054ecf754378586911c9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/ed00ee7e4e7015c1e7e673dace655d09.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/0e70629074c007ed4f4a095012e16c5e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/29a5ab8c51ec535482ab36626b633734.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/9022eb8d5ac9c90a5213d43709596506.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/1f5da5d90772ca58b3cd11626d9294b8.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/1e9f70524086339e66b1559e0d88e343.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/91ce9cb4bdeedb630b7d68adf70dbf65.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/2a4f4793700c43f000e4344c0b49d349.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/ba71a0e96f1a00d8075e75a952f8b325.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/7b234872154e00d160c6c474fc3beb66.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/a63b136411248256c66a7c1209b962be.jpg" /></Images><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22060438</ModificationId><ComplectationId>22060440</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722Z4SB326496</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>5bfb6bd87c1b29a83922ac62b8b06299</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 300 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 100 000₽
-- Персональные скидки до 100 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
-
-Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2089990</Price><TradeinDiscount>150000</TradeinDiscount><CreditDiscount>201000</CreditDiscount><InsuranceDiscount /><MaxDiscount>351000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/444415a4170ef431770c21f09e067171.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/86f577c3ef6fbbd0314ba80f2873d3bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/f5b668ad179cb63d89c04a2de96861cc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a5c0f7c17a01496ab94c99db3efb9f94.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/258f1a1147c379e801bd4fda0cabac08.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/0b85b6ebce249361faafa35b8f497eb5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/2c3435773311848bd1fb4574c6c8bada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/93d788a0b09e86db24f4f441945e339e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/5474c177f37db345e7327e7f11b9c00d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/676c3a596fe898b23c56f80be0536194.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/1fe3bade46502adad794803950aba19b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/fcf5c77695ab5a63a6d12a6215c7d268.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/beb9bde8c31d74a721f89236de6e1a82.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/e6bbafaa1139bb46bd3882a0038d91bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/b19f412ffd3ca030e89a4ad5634df62b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a382ba40d3ae5da0c86feed9a29286c8.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/910534704ddbc49743012945b8ad0b27.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/9024c738f0e98eee8d50529218edba13.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/09aa7ccdaea9848b9158a900beab424a.jpg" /></Images><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428695</ModificationId><ComplectationId>22428696</ComplectationId><FuelType>Бензин</FuelType><Transmission>Механика</Transmission><Year>2025</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z6SB206128</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -926,6 +700,81 @@ Belgee Партнер-Авто — автосалон, который забот
 		
 		
 		
+	<Id>5bfb6bd87c1b29a83922ac62b8b06299</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2089990</Price><TradeinDiscount>150000</TradeinDiscount><CreditDiscount>201000</CreditDiscount><InsuranceDiscount /><MaxDiscount>351000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/444415a4170ef431770c21f09e067171.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/86f577c3ef6fbbd0314ba80f2873d3bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/f5b668ad179cb63d89c04a2de96861cc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a5c0f7c17a01496ab94c99db3efb9f94.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/258f1a1147c379e801bd4fda0cabac08.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/0b85b6ebce249361faafa35b8f497eb5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/2c3435773311848bd1fb4574c6c8bada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/93d788a0b09e86db24f4f441945e339e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/5474c177f37db345e7327e7f11b9c00d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/676c3a596fe898b23c56f80be0536194.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/1fe3bade46502adad794803950aba19b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/fcf5c77695ab5a63a6d12a6215c7d268.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/beb9bde8c31d74a721f89236de6e1a82.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/e6bbafaa1139bb46bd3882a0038d91bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/b19f412ffd3ca030e89a4ad5634df62b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a382ba40d3ae5da0c86feed9a29286c8.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/910534704ddbc49743012945b8ad0b27.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/9024c738f0e98eee8d50529218edba13.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/09aa7ccdaea9848b9158a900beab424a.jpg" /></Images><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428695</ModificationId><ComplectationId>22428696</ComplectationId><FuelType>Бензин</FuelType><Transmission>Механика</Transmission><Year>2025</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z6SB206128</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>5ae8756b82b3611fadec5b60e7d95bba</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
@@ -1000,81 +849,6 @@ Belgee Партнер-Авто — автосалон, который забот
 		
 		
 		
-	<Id>5cc399436c0483703b06edb0af5c1703</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 350 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 285 000₽
-- Персональные скидки до 350 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
-
-Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/50db547eb927c55b15e462529ac842a2.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/05cb2e67b44af6771137544ec2f59af4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/058872fedf94c0df188f4af996613ecb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/a96d4bf2f5742a4a200ab744e3c20770.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/b54198d4c5fa65f72d5d99fe566851b4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/b810e4c36c3b23ac7c4135db8a4a8d15.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/7041a56d1959ff473ca106cb518671ba.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/e10ca2761879613e2322e100b8708798.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/06848c499fa7ce9db8aa92bd8d966244.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/4d75ac2c486d74ac1fe125e94e619d52.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/426a6f9cd5fb8591f0dfed0486bba84d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/6cc129653cfce87f631f8599ce394bd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/31eee9b78922abcc835a0f512b0936e6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/17553eb8d7ab806bff0a47409e11b585.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/aa51e94225899a7e93ff1b0c015a2c84.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/d54a4b6c05d49b73396cd6306fead2af.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/12999a2b8dfaa9ecedb6060f3796ba82.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/d7c54da6c8ad34670187fb7cf7e6d9b1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/b22a9e8b636be103724333e882109d3b.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z5SB942826</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>406dccacab75372866458edaf6647e47</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
@@ -1118,81 +892,6 @@ Belgee Партнер-Авто — автосалон, который забот
 			
 			
 		<Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/9fd2edffed2f79752e99ce17e64f456a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/caf0b15f22d13bc8ab916c309ac82fd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/934f9d08f714c0b582821fd4303da376.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/193f316937fd212055e6892b128162f6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/7e282cd7928c054ecf754378586911c9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/ed00ee7e4e7015c1e7e673dace655d09.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/0e70629074c007ed4f4a095012e16c5e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/29a5ab8c51ec535482ab36626b633734.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/9022eb8d5ac9c90a5213d43709596506.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/1f5da5d90772ca58b3cd11626d9294b8.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/1e9f70524086339e66b1559e0d88e343.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/91ce9cb4bdeedb630b7d68adf70dbf65.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/2a4f4793700c43f000e4344c0b49d349.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/ba71a0e96f1a00d8075e75a952f8b325.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/7b234872154e00d160c6c474fc3beb66.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z4SB326495/a63b136411248256c66a7c1209b962be.jpg" /></Images><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22060438</ModificationId><ComplectationId>22060440</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722Z4SB326497</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>743926f6b4820fa6c922f7b419686102</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 300 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 100 000₽
-- Персональные скидки до 100 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
-
-Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2089990</Price><TradeinDiscount>150000</TradeinDiscount><CreditDiscount>201000</CreditDiscount><InsuranceDiscount /><MaxDiscount>351000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/444415a4170ef431770c21f09e067171.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/86f577c3ef6fbbd0314ba80f2873d3bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/f5b668ad179cb63d89c04a2de96861cc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a5c0f7c17a01496ab94c99db3efb9f94.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/258f1a1147c379e801bd4fda0cabac08.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/0b85b6ebce249361faafa35b8f497eb5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/2c3435773311848bd1fb4574c6c8bada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/93d788a0b09e86db24f4f441945e339e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/5474c177f37db345e7327e7f11b9c00d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/676c3a596fe898b23c56f80be0536194.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/1fe3bade46502adad794803950aba19b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/fcf5c77695ab5a63a6d12a6215c7d268.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/beb9bde8c31d74a721f89236de6e1a82.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/e6bbafaa1139bb46bd3882a0038d91bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/b19f412ffd3ca030e89a4ad5634df62b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a382ba40d3ae5da0c86feed9a29286c8.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/910534704ddbc49743012945b8ad0b27.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/9024c738f0e98eee8d50529218edba13.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/09aa7ccdaea9848b9158a900beab424a.jpg" /></Images><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428695</ModificationId><ComplectationId>22428696</ComplectationId><FuelType>Бензин</FuelType><Transmission>Механика</Transmission><Year>2025</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z6SB206129</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1297,6 +996,81 @@ Belgee Партнер-Авто — автосалон, который забот
 		
 		
 		
+	<Id>743926f6b4820fa6c922f7b419686102</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2089990</Price><TradeinDiscount>150000</TradeinDiscount><CreditDiscount>201000</CreditDiscount><InsuranceDiscount /><MaxDiscount>351000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/444415a4170ef431770c21f09e067171.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/86f577c3ef6fbbd0314ba80f2873d3bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/f5b668ad179cb63d89c04a2de96861cc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a5c0f7c17a01496ab94c99db3efb9f94.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/258f1a1147c379e801bd4fda0cabac08.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/0b85b6ebce249361faafa35b8f497eb5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/2c3435773311848bd1fb4574c6c8bada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/93d788a0b09e86db24f4f441945e339e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/5474c177f37db345e7327e7f11b9c00d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/676c3a596fe898b23c56f80be0536194.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/1fe3bade46502adad794803950aba19b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/fcf5c77695ab5a63a6d12a6215c7d268.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/beb9bde8c31d74a721f89236de6e1a82.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/e6bbafaa1139bb46bd3882a0038d91bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/b19f412ffd3ca030e89a4ad5634df62b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/a382ba40d3ae5da0c86feed9a29286c8.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/910534704ddbc49743012945b8ad0b27.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/9024c738f0e98eee8d50529218edba13.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8824Z6SB206126/09aa7ccdaea9848b9158a900beab424a.jpg" /></Images><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428695</ModificationId><ComplectationId>22428696</ComplectationId><FuelType>Бензин</FuelType><Transmission>Механика</Transmission><Year>2025</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z6SB206129</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>7dcda4e1eb64eb36a75c41e79cdad90c</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
@@ -1342,81 +1116,6 @@ Belgee Партнер-Авто — автосалон, который забот
 			
 			
 		<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/13e6801f8b9da7e3a9ae576a42df31aa.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/ab1bc2423b8a7de63a38c6996c112a3a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/6453949c524d449995c83e24fde92ff0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/79191632632eb85a6b5f4381ed438cbb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/5955abd414a84c4d31a25376d5349947.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/1104052bf2c16da42edce05952bf7bba.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/c09b12464cca24a6d0bb869484a05fa9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/f7e6599a5d3523c09a992a12eee6a32d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/5afa8507f5b42c88c1898b2ddab7a0c5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/6b4fd70fd880b618bcfae549ae0567cb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/af2b49aa3e316edc4ccc5a42c8652297.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/a53e5b64ef90b176bab12844ddb75e2a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/4246b8cf147f0215b2b0b3a4c87b3ed9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/797ab78aaf7f6346d5138355680968fc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/8b9981a6a638b29b3d2ce21afb1cc433.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/d134f1e550dd6c4da5aa8ed76b5ce593.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/f9443029a02fff7e0967a3df20f34fb4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942838/616955a81819ff3bf401920628eaf07b.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z5SB942841</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>e398981135b3eb36baac3be48b142c0e</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 350 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 285 000₽
-- Персональные скидки до 350 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
-
-Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/50db547eb927c55b15e462529ac842a2.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/05cb2e67b44af6771137544ec2f59af4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/058872fedf94c0df188f4af996613ecb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/a96d4bf2f5742a4a200ab744e3c20770.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/b54198d4c5fa65f72d5d99fe566851b4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/b810e4c36c3b23ac7c4135db8a4a8d15.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/7041a56d1959ff473ca106cb518671ba.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/e10ca2761879613e2322e100b8708798.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/06848c499fa7ce9db8aa92bd8d966244.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/4d75ac2c486d74ac1fe125e94e619d52.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/426a6f9cd5fb8591f0dfed0486bba84d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/6cc129653cfce87f631f8599ce394bd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/31eee9b78922abcc835a0f512b0936e6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/17553eb8d7ab806bff0a47409e11b585.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/aa51e94225899a7e93ff1b0c015a2c84.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/d54a4b6c05d49b73396cd6306fead2af.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/12999a2b8dfaa9ecedb6060f3796ba82.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/d7c54da6c8ad34670187fb7cf7e6d9b1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z5SB942824/b22a9e8b636be103724333e882109d3b.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z5SB942827</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
