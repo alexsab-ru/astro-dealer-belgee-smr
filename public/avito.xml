@@ -1,6 +1,118 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
-		<Id>c6846b5903a9a65a7c0ca9bd57358759</Id>
+		<Id>1a011c0604ab944e24f3585bb0cd2c64</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
+		<Price>2309990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>360000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>S50</Model>
+		<GenerationId>22428694</GenerationId>
+		<ModificationId>22428700</ModificationId>
+		<ComplectationId>22450018</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2025</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8824Z6TB200649</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>9ae5d67540b6a118a873a2427d8bd14e</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
+		<Price>2129990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>201000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>351000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>S50</Model>
+		<GenerationId>22428694</GenerationId>
+		<ModificationId>22428695</ModificationId>
+		<ComplectationId>22428696</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Механика</Transmission>
+		<Year>2026</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8824Z9TB200323</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>a54c6f529fa3c72a12cdda1172d7b9df</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в пути</Availability>
@@ -50,7 +162,7 @@ Belgee Партнер-Авто — автосалон, который забот
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z2TB903299</VIN>
+		<VIN>Y4K8622Z5TB903314</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -168,7 +280,7 @@ Belgee Партнер-Авто — автосалон, который забот
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>a54c6f529fa3c72a12cdda1172d7b9df</Id>
+		<Id>c6846b5903a9a65a7c0ca9bd57358759</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в пути</Availability>
@@ -218,7 +330,7 @@ Belgee Партнер-Авто — автосалон, который забот
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z5TB903314</VIN>
+		<VIN>Y4K8622Z2TB903299</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -481,7 +593,117 @@ Belgee Партнер-Авто — автосалон, который забот
 		
 		
 		
-	<Id>3cac185b40011b220f8229ea874e7e9d</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+	<Id>f769edcc9bdda7be6271f9f499557119</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2309990</Price><TradeinDiscount>150000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>360000</MaxDiscount><Color>Белый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z6TB200650</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>945dad8dfbde2035418a1e268000c238</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2129990</Price><TradeinDiscount>150000</TradeinDiscount><CreditDiscount>201000</CreditDiscount><InsuranceDiscount /><MaxDiscount>351000</MaxDiscount><Color>Белый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428695</ModificationId><ComplectationId>22428696</ComplectationId><FuelType>Бензин</FuelType><Transmission>Механика</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z9TB200324</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>7216ca1fe0cc0d8c2f4b7055d8d30b4f</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
 Выгодная рассрочка до 96 месяцев — без переплат! 
@@ -506,7 +728,7 @@ Belgee Партнер-Авто — автосалон, который забот
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z2TB903300</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z5TB903315</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -646,7 +868,7 @@ Belgee Партнер-Авто — автосалон, который забот
 		
 		
 		
-	<Id>7216ca1fe0cc0d8c2f4b7055d8d30b4f</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+	<Id>3cac185b40011b220f8229ea874e7e9d</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
 Выгодная рассрочка до 96 месяцев — без переплат! 
@@ -671,7 +893,7 @@ Belgee Партнер-Авто — автосалон, который забот
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z5TB903315</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z2TB903300</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -926,7 +1148,117 @@ Belgee Партнер-Авто — автосалон, который забот
 		
 		
 		
-	<Id>c87fb88729921ba6ce99f91032ac920c</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+	<Id>6f7560acdc93cfe4728939baa53315e3</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2309990</Price><TradeinDiscount>150000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>360000</MaxDiscount><Color>Белый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z6TB200651</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>b5ca15d88a6aa2f5114abe83b7de1bfb</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2129990</Price><TradeinDiscount>150000</TradeinDiscount><CreditDiscount>201000</CreditDiscount><InsuranceDiscount /><MaxDiscount>351000</MaxDiscount><Color>Белый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428695</ModificationId><ComplectationId>22428696</ComplectationId><FuelType>Бензин</FuelType><Transmission>Механика</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z9TB200325</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>8ec6bf824b2e882c9bc0e4773f3143a6</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
 Выгодная рассрочка до 96 месяцев — без переплат! 
@@ -951,7 +1283,7 @@ Belgee Партнер-Авто — автосалон, который забот
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z2TB903301</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z5TB903316</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1091,7 +1423,7 @@ Belgee Партнер-Авто — автосалон, который забот
 		
 		
 		
-	<Id>8ec6bf824b2e882c9bc0e4773f3143a6</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+	<Id>c87fb88729921ba6ce99f91032ac920c</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
 Выгодная рассрочка до 96 месяцев — без переплат! 
@@ -1116,7 +1448,7 @@ Belgee Партнер-Авто — автосалон, который забот
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z5TB903316</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z2TB903301</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1371,7 +1703,117 @@ Belgee Партнер-Авто — автосалон, который забот
 		
 		
 		
-	<Id>27e909bb468f44039b787d27ec0ab773</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+	<Id>bd69f30e673b87f579792d93e84be8ee</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2309990</Price><TradeinDiscount>150000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>360000</MaxDiscount><Color>Белый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z6TB200652</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>7bbf5c6a43ee64596dbd01caa1b82b79</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2129990</Price><TradeinDiscount>150000</TradeinDiscount><CreditDiscount>201000</CreditDiscount><InsuranceDiscount /><MaxDiscount>351000</MaxDiscount><Color>Белый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428695</ModificationId><ComplectationId>22428696</ComplectationId><FuelType>Бензин</FuelType><Transmission>Механика</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z9TB200326</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>129e5806f037b4ef5963f4a9e255c274</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
 Выгодная рассрочка до 96 месяцев — без переплат! 
@@ -1396,7 +1838,7 @@ Belgee Партнер-Авто — автосалон, который забот
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z2TB903302</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z5TB903317</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1536,7 +1978,7 @@ Belgee Партнер-Авто — автосалон, который забот
 		
 		
 		
-	<Id>129e5806f037b4ef5963f4a9e255c274</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+	<Id>27e909bb468f44039b787d27ec0ab773</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в пути</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
 Выгодная рассрочка до 96 месяцев — без переплат! 
@@ -1561,7 +2003,7 @@ Belgee Партнер-Авто — автосалон, который забот
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z5TB903317</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2690190</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>100000</CreditDiscount><InsuranceDiscount /><MaxDiscount>450000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z2TB903302</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1840,7 +2282,6 @@ Belgee Партнер-Авто — автосалон, который забот
     <Modification>1.5 AMT (150 л.с.)</Modification>
     <Complectation>Prestige</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>450000</MaxDiscount>
     <Availability>в наличии</Availability>
     <Color>Красный</Color>
     <Make>Belgee</Make>
@@ -1907,7 +2348,6 @@ Belgee Партнер-Авто — автосалон, который забот
     <Modification>1.5 AMT (150 л.с.)</Modification>
     <Complectation>Prestige</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>450000</MaxDiscount>
     <Availability>в наличии</Availability>
     <Color>Черный</Color>
     <Make>Belgee</Make>
@@ -1975,7 +2415,6 @@ Belgee Партнер-Авто — автосалон, который забот
     <Modification>1.5 AMT (150 л.с.)</Modification>
     <Complectation>Prestige</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>450000</MaxDiscount>
     <Availability>в наличии</Availability>
     <Color>Белый</Color>
     <Make>Belgee</Make>
@@ -2044,7 +2483,6 @@ Belgee Партнер-Авто — автосалон, который забот
     <Modification>1.5 AMT (150 л.с.)</Modification>
     <Complectation>Prestige</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>450000</MaxDiscount>
     <Availability>в наличии</Availability>
     <Color>Синий</Color>
     <Make>Belgee</Make>
@@ -2112,7 +2550,6 @@ Belgee Партнер-Авто — автосалон, который забот
     <Modification>1.5 AMT (150 л.с.)</Modification>
     <Complectation>Prestige</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>450000</MaxDiscount>
     <Availability>в наличии</Availability>
     <Color>Серый</Color>
     <Make>Belgee</Make>
@@ -2180,7 +2617,6 @@ Belgee Партнер-Авто — автосалон, который забот
     <Modification>1.5 AMT (150 л.с.)</Modification>
     <Complectation>Prestige</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>450000</MaxDiscount>
     <Availability>в наличии</Availability>
     <Color>Серый</Color>
     <Make>Belgee</Make>
