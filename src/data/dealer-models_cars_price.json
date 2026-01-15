@@ -4,5 +4,11 @@
     "model": "X50",
     "price": 2240190,
     "benefit": 450000
+  },
+  {
+    "brand": "Belgee",
+    "model": "Обновленный X70",
+    "price": 2329990,
+    "benefit": 250000
   }
 ]
