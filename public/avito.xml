@@ -32,10 +32,10 @@
 Звоните прямо сейчас — количество машин по акции ограничено.
 Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
 		<Price>2039990</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>200000</MaxDiscount>
+		<MaxDiscount />
 		<Color>Серый</Color>
 		<Images />
 		<Make>Belgee</Make>
@@ -631,7 +631,7 @@ Belgee Партнер-Авто — автосалон, который забот
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2039990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>200000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450019</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z8TB202243</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2039990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount /><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450019</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z8TB202243</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1200,7 +1200,7 @@ Belgee Партнер-Авто — автосалон, который забот
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2039990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>200000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450019</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z8TB202244</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2039990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount /><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450019</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z8TB202244</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1769,7 +1769,7 @@ Belgee Партнер-Авто — автосалон, который забот
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2039990</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>200000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450019</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z8TB202245</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>2039990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount /><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450019</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z8TB202245</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
