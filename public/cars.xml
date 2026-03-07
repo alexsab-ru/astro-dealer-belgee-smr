@@ -1,30 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<data><cars><car><availability>транзит</availability><body_type>Внедорожник</body_type><color>Черный</color><complectation_name>Престиж</complectation_name><credit_discount>140000</credit_discount><description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 350 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 285 000₽
-- Персональные скидки до 350 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
-
-Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</description><folder_id>X50</folder_id><images><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/fddcbf30518e0f23f98c808828f1fac6.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/fcf5442c1d1d84d81212055a7652e0da.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/64e011cdd07d3cd68577db3800ba16d5.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/a9cddd1a5beec38738888af3c86e70a6.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/59a505e9a7b600a111669a3bfcda5779.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/4853b361b8d5ee7eec0faa0d3f1e28b5.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/702c0659266ef4e866b011c5802a1b94.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/e7e7d7c0193332897bec5e9e5c718613.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/2b204f9dd4b231ca289aba26d6dcad0a.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/25e26fdeb5ea1e4dca433b1d6fbec95c.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/87ddac5246167453fe782a8dd393dcae.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/bd3164d3a987b1974efeb68e3af9e70b.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/86280841d8ea37b81944b78dedb450cb.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/98b26d2ad2da5df3cea692b549016051.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/602245ecd596b3d956d7e633f26767cc.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/f6c8334a2ef8eb60558df46dfa907fd6.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/bed29abb41018c0fc70c09f6c8a71c9b.jpeg</image><image>https://photo.toyotasever.ru/Y4K8622Z1TB912530/cbe31f9eca4caec56310770bb6eccb63.jpeg</image></images><insurance_discount>0</insurance_discount><mark_id>Belgee</mark_id><max_discount>490000</max_discount><modification_id>1.5 AMT (150 л.с.)</modification_id><optional_discount>0</optional_discount><price>2690990</price><run>1</run><tradein_discount>140000</tradein_discount><vin>Y4K8622Z1TB912530</vin><wheel>левый</wheel><year>2026</year><color_rus>Черный металлик (Ink Black)</color_rus><color_eng>black</color_eng><priceWithDiscount>2200990</priceWithDiscount><sale_price>2200990</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-престиж-black-2026/</url><model_name>X50</model_name><model_id>x50</model_id></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Серый</color><complectation_name>Престиж</complectation_name><credit_discount>140000</credit_discount><description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+<data><cars><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Серый</color><complectation_name>Престиж</complectation_name><credit_discount>140000</credit_discount><description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
 Выгодная рассрочка до 96 месяцев — без переплат! 
