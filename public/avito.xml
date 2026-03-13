@@ -891,7 +891,7 @@ Belgee Партнер-Авто — автосалон, который забот
     <Modification>1.5T AT (150 л.с.)</Modification>
     <Complectation>Style</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>200000</MaxDiscount>
+    <MaxDiscount>250000</MaxDiscount>
     <Availability>В пути</Availability>
     <Color>Серый</Color>
     <Make>Belgee</Make>
@@ -959,7 +959,7 @@ Belgee Партнер-Авто — автосалон, который забот
     <Modification>1.5T AT (150 л.с.)</Modification>
     <Complectation>Style</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>200000</MaxDiscount>
+    <MaxDiscount>250000</MaxDiscount>
     <Availability>В пути</Availability>
     <Color>Серебряный</Color>
     <Make>Belgee</Make>
@@ -1366,7 +1366,7 @@ Belgee Партнер-Авто — автосалон, который забот
     <Modification>1.5 AT (122 л.с.)</Modification>
     <Complectation>Style</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>250000</MaxDiscount>
+    <MaxDiscount>330000</MaxDiscount>
     <Availability>В пути</Availability>
     <Color>Белый</Color>
     <Make>Belgee</Make>
@@ -1434,7 +1434,7 @@ Belgee Партнер-Авто — автосалон, который забот
     <Modification>1.5 AT (122 л.с.)</Modification>
     <Complectation>Style</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>250000</MaxDiscount>
+    <MaxDiscount>330000</MaxDiscount>
     <Availability>В пути</Availability>
     <Color>Серый</Color>
     <Make>Belgee</Make>
@@ -1568,7 +1568,7 @@ Belgee Партнер-Авто — автосалон, который забот
     <Modification>1.5T 4WD DCT (150 л.с.)</Modification>
     <Complectation>Prestige</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>200000</MaxDiscount>
+    <MaxDiscount>260000</MaxDiscount>
     <Availability>В пути</Availability>
     <Color>Синий</Color>
     <Make>Belgee</Make>
