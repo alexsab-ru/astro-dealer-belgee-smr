@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<data><cars><car><availability>В пути</availability><color>Красный</color><complectation_name>Prestige</complectation_name><credit_discount>0</credit_discount><description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+<data><cars><car><availability>транзит</availability><body_type>Седан</body_type><color>Белый</color><complectation_name>Престиж</complectation_name><credit_discount>100000</credit_discount><description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 300 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 100 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
+5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</description><folder_id>S50</folder_id><insurance_discount>0</insurance_discount><mark_id>Belgee</mark_id><max_discount>360000</max_discount><modification_id>1.5 AT (122 л.с.)</modification_id><optional_discount>0</optional_discount><price>2309990</price><run>1</run><tradein_discount>150000</tradein_discount><vin>Y4K8824Z8TB203228</vin><wheel>левый</wheel><year>2026</year><color_rus>Белый (Crystal White)</color_rus><color_eng>crystal-white</color_eng><priceWithDiscount>1949990</priceWithDiscount><sale_price>1949990</sale_price><url>https://belgee-smr.ru/cars/belgee-s50-15-at-122-лс-престиж-crystal-white-2026/</url><model_name>S50</model_name><model_id>s50</model_id></car><car><availability>В пути</availability><color>Красный</color><complectation_name>Prestige</complectation_name><credit_discount>0</credit_discount><description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 200 000 ₽ просто за обмен авто!
 Выгодная рассрочка до 96 месяцев — без переплат! 
