@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
-		<Id>ea6a7747c78ecb15bf35b30d7ad1eda9</Id>
+		<Id>283565d8dee9120ec6e27f62cd71afc0</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<Category>Автомобили</Category>
 		<Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
@@ -169,63 +169,6 @@ Belgee Партнер-Авто — автосалон, который забот
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>30d8da03eb84f1e426e22b8a778e5356</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
-		<Category>Автомобили</Category>
-		<Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 490 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 500 000₽
-- Персональные скидки до 520 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
-
-Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
-5 ТО за 1 рубль при покупке автомобиля до 10 февраля.</Description>
-		<Price>2806990</Price>
-		<TradeinDiscount>80000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount>180000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images />
-		<Make>Belgee</Make>
-		<Model>X70</Model>
-		<GenerationId>22446053</GenerationId>
-		<ModificationId>22446574</ModificationId>
-		<ComplectationId>22446576</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8722D5TB305015</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>680243cd40889e7131e5fa1616063a53</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -278,6 +221,63 @@ Belgee Партнер-Авто — автосалон, который забот
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8722DXTB304720</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>15d245b70ad355244f52d2ee29f854a1</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 170 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 490 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 500 000₽
+- Персональные скидки до 520 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Belgee! 
+
+Круглосуточная помощь на дороге 24/7 с программой Belgee Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
+5 ТО за 1 рубль при покупке автомобиля до 10 февраля.</Description>
+		<Price>2806990</Price>
+		<TradeinDiscount>80000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount />
+		<MaxDiscount>180000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22446053</GenerationId>
+		<ModificationId>22446574</ModificationId>
+		<ComplectationId>22446576</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722D5TB305015</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -690,7 +690,7 @@ Belgee Партнер-Авто — автосалон, который забот
   </Ad>
   <Ad>
     <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-    <Id>487a93bb2ac77ef2c2d88441b938c8d8</Id>
+    <Id>941bbdea7c1dac4d60bb7f3458bb2da0</Id>
     <Category>Автомобили</Category>
     <Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
@@ -742,7 +742,7 @@ Belgee Партнер-Авто — автосалон, который забот
     <Complectation>Prestige</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>370000</MaxDiscount>
-    <Availability>В наличии</Availability>
+    <Availability>В пути</Availability>
     <Color>Белый</Color>
     <Make>Belgee</Make>
     <Model>S50</Model>
@@ -751,7 +751,7 @@ Belgee Партнер-Авто — автосалон, который забот
     <Year>2026</Year>
     <DriveType>Передний</DriveType>
     <WheelType>Левый</WheelType>
-    <VIN>Y4K8824Z6SB209857</VIN>
+    <VIN>Y4K8824Z6SB204555</VIN>
   </Ad>
   <Ad>
     <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
@@ -1476,7 +1476,7 @@ Belgee Партнер-Авто — автосалон, который забот
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260113-142731/5334820939436329961-08728111.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260113-142731/5334820939436329963-859a88ee.jpg" />
     </Images>
-    <Generation>I рестайлинг (2025—2025)</Generation>
+    <Generation>I рестайлинг (2025—2026)</Generation>
     <Modification>1.5T AT (150 л.с.)</Modification>
     <Complectation>Active</Complectation>
     <CarType>Новые</CarType>
@@ -1544,7 +1544,7 @@ Belgee Партнер-Авто — автосалон, который забот
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260113-143044/5465400306146867483-104cfa3d.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260113-143044/5465400306146867484-a793fb38.jpg" />
     </Images>
-    <Generation>I рестайлинг (2025—2025)</Generation>
+    <Generation>I рестайлинг (2025—2026)</Generation>
     <Modification>1.5T AT (150 л.с.)</Modification>
     <Complectation>Style</Complectation>
     <CarType>Новые</CarType>
@@ -1612,7 +1612,7 @@ Belgee Партнер-Авто — автосалон, который забот
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260113-143252/5238162906598280267-2cd01470.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260113-143252/5238162906598280268-1ea752cb.jpg" />
     </Images>
-    <Generation>I рестайлинг (2025—2025)</Generation>
+    <Generation>I рестайлинг (2025—2026)</Generation>
     <Modification>1.5T AT (150 л.с.)</Modification>
     <Complectation>Style</Complectation>
     <CarType>Новые</CarType>
@@ -1680,7 +1680,7 @@ Belgee Партнер-Авто — автосалон, который забот
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260113-144152/5334820939436330050-0080ca24.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260113-144152/5334820939436330051-8b81eaef.jpg" />
     </Images>
-    <Generation>I рестайлинг (2025—2025)</Generation>
+    <Generation>I рестайлинг (2025—2026)</Generation>
     <Modification>1.5T 4WD DCT (150 л.с.)</Modification>
     <Complectation>Style</Complectation>
     <CarType>Новые</CarType>
@@ -1748,7 +1748,7 @@ Belgee Партнер-Авто — автосалон, который забот
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260113-144714/5215439162348081048-2d114c44.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260113-144714/5215439162348081049-a1802b9f.jpg" />
     </Images>
-    <Generation>I рестайлинг (2025—2025)</Generation>
+    <Generation>I рестайлинг (2025—2026)</Generation>
     <Modification>1.5T 4WD DCT (150 л.с.)</Modification>
     <Complectation>Prestige+</Complectation>
     <CarType>Новые</CarType>
@@ -1815,7 +1815,7 @@ Belgee Партнер-Авто — автосалон, который забот
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260217-174222/img-20251001-142808-622c14df.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260217-174222/img-20251001-142716-3c78257c.jpg" />
     </Images>
-    <Generation>I рестайлинг (2025—2025)</Generation>
+    <Generation>I рестайлинг (2025—2026)</Generation>
     <Modification>1.5T 4WD DCT (150 л.с.)</Modification>
     <Complectation>Prestige</Complectation>
     <CarType>Новые</CarType>
@@ -1833,7 +1833,7 @@ Belgee Партнер-Авто — автосалон, который забот
   </Ad>
   <Ad>
     <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-    <Id>5921af1a4f91af4ee9fa3a95756941cb</Id>
+    <Id>f56005ce2c084d542e470d40dca87961</Id>
     <Category>Автомобили</Category>
     <Description>МЕГА BЫГOДЫ от Belgee Партнер-Авто — только до конца месяца!
 
@@ -1883,12 +1883,12 @@ Belgee Партнер-Авто — автосалон, который забот
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260113-143044/5465400306146867483-104cfa3d.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260113-143044/5465400306146867484-a793fb38.jpg" />
     </Images>
-    <Generation>I рестайлинг (2025—2025)</Generation>
+    <Generation>I рестайлинг (2025—2026)</Generation>
     <Modification>1.5T 4WD DCT (150 л.с.)</Modification>
     <Complectation>Style</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>200000</MaxDiscount>
-    <Availability>В наличии</Availability>
+    <Availability>В пути</Availability>
     <Color>Серый</Color>
     <Make>Belgee</Make>
     <Model>X70</Model>
@@ -1897,6 +1897,6 @@ Belgee Партнер-Авто — автосалон, который забот
     <Year>2026</Year>
     <DriveType>Полный</DriveType>
     <WheelType>Левый</WheelType>
-    <VIN>Y4K8722Z3TB309117</VIN>
+    <VIN>Y4K8722Z3TB308115</VIN>
   </Ad>
 </Ads>
