@@ -87,6 +87,9 @@ export default defineConfig({
 		icon(),
 		react(),
 	],
+	redirects: {
+		"/models/x50plus": "/models/x50-plus/",
+	},
 	vite: {
 		plugins: [
 			yaml(),
