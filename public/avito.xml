@@ -160,10 +160,10 @@ Belgee Партнер-Авто — автосалон, который забот
 Звоните прямо сейчас — количество машин по акции ограничено.
 Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
 		<Price>3006990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>80000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>300000</InsuranceDiscount>
-		<MaxDiscount>400000</MaxDiscount>
+		<MaxDiscount>480000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB305518/6b520ea0a6da4c1708f0b7dd870124ae.jpg" />
@@ -235,10 +235,10 @@ Belgee Партнер-Авто — автосалон, который забот
 Звоните прямо сейчас — количество машин по акции ограничено.
 Belgee Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
 		<Price>3006990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>80000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>300000</InsuranceDiscount>
-		<MaxDiscount>400000</MaxDiscount>
+		<MaxDiscount>480000</MaxDiscount>
 		<Color>Синий</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D4TB305751/521992ee40c7b928312f197218db2b78.jpg" />
