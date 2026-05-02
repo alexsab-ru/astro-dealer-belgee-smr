@@ -39,10 +39,10 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
 		<Price>2775990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>275990</InsuranceDiscount>
-		<MaxDiscount>275990</MaxDiscount>
+		<MaxDiscount>375990</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB918592/9eb5e9733a5a16c5854e8739b4edf142.jpg" />
@@ -122,10 +122,10 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
 		<Price>2775990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>275990</InsuranceDiscount>
-		<MaxDiscount>275990</MaxDiscount>
+		<MaxDiscount>375990</MaxDiscount>
 		<Color>Черный</Color>
 		<Images />
 		<Make>Belgee</Make>
@@ -185,10 +185,10 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
 		<Price>2675990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount>172000</CreditDiscount>
 		<InsuranceDiscount>100000</InsuranceDiscount>
-		<MaxDiscount>272000</MaxDiscount>
+		<MaxDiscount>372000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images />
 		<Make>Belgee</Make>
