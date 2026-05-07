@@ -354,7 +354,7 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
 		<TradeinDiscount>80000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>460000</MaxDiscount>
+		<MaxDiscount>380000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D8TB307924/4b6a99a0258da3f57878aaa227df49b8.jpg" />
@@ -437,7 +437,7 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
 		<TradeinDiscount>80000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>460000</MaxDiscount>
+		<MaxDiscount>380000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D5TB308061/04ceb9b314bf4f2b8841dd9b7295b39d.jpg" />
@@ -520,7 +520,7 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
 		<TradeinDiscount>80000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>460000</MaxDiscount>
+		<MaxDiscount>380000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D5TB308108/43aa9ce6ff51318f499dbd9c4340b3d6.jpg" />
@@ -1075,7 +1075,7 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
   </Ad>
   <Ad>
     <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-    <Id>2db38316cf01fa74d235889eeb6d1de1</Id>
+    <Id>6b51aa8d8d08c452c44a5dc09a15fba0</Id>
     <Category>Автомобили</Category>
     <Description>Belgee у официального дилера: свежие партии 2026 года
  
@@ -1146,7 +1146,7 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
     <Year>2026</Year>
     <DriveType>Передний</DriveType>
     <WheelType>Левый</WheelType>
-    <VIN>Y4K8722D8TB302096</VIN>
+    <VIN>Y4K8722D8TB352441</VIN>
   </Ad>
   <Ad>
     <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
@@ -1435,7 +1435,7 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
     <Modification>1.5T 4WD DCT (150 л.с.)</Modification>
     <Complectation>Стиль</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>200000</MaxDiscount>
+    <MaxDiscount>380000</MaxDiscount>
     <Availability>В пути</Availability>
     <Color>Серый</Color>
     <Make>Belgee</Make>
