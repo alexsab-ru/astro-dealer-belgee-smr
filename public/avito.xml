@@ -1,72 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
-		<Id>3c098c07764978f59b5038df0e4f39b9</Id>
+		<Id>fb7a564ca2d843498cd0d516aaf54ea9</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
-		<Category>Автомобили</Category>
-		<Description>"Belgee у официального дилера: свежие партии 2026 года
- 
-Belgee Партнер-Авто Самара это:
- 
-✔️ Прозрачные условия без скрытых финансовых продуктов.
-✔️ Справедливая и быстрая оценка вашего авто.
-✔️ Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️ Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️ Юридическая чистота — каждая сделка прозрачна.
-✔️ Персонализированные предложения для клиентов
- 
-Специальные предложение до конца месяца:
-— Выгода до 600 000 рублей на покупку автомобиля
-— Дополнительное оборудование  в подарок за визит в день обращения*
-— Кредит от 0,01% со сроком до 8 лет
-— 5 работ ТО в подарок
-— Шинный отель на год
- 
-Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-Мы не просто продаем автомобили — мы сопровождаем:
- 
-Сервис, диагностика — полный цикл в одном месте
- 
- 
-Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет.
- 
-Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дилер Belgee, купить Belgee, Belgee цена, трейд-ин Belgee, кредит 0,01%, Belgee в наличии, тест-драйв Belgee, гарантия 5 лет, Belgee X50 новый, Belgee X70 полный привод, Белджи официальный дилер, кроссовер 2026
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>2039990</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>110000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>310000</MaxDiscount>
-		<Color>Голубой</Color>
-		<Images />
-		<Make>Belgee</Make>
-		<Model>S50</Model>
-		<GenerationId>22428694</GenerationId>
-		<ModificationId>22428700</ModificationId>
-		<ComplectationId>22450019</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>4</Doors>
-		<BodyType>Седан</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8824ZXTB207426</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>c3fb60d4d1a7256057cff4818e0b51e9</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<Category>Автомобили</Category>
 		<Description>"Belgee у официального дилера: свежие партии 2026 года
  
@@ -140,6 +77,69 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8824Z9TB207496</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>3c098c07764978f59b5038df0e4f39b9</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>"Belgee у официального дилера: свежие партии 2026 года
+ 
+Belgee Партнер-Авто Самара это:
+ 
+✔️ Прозрачные условия без скрытых финансовых продуктов.
+✔️ Справедливая и быстрая оценка вашего авто.
+✔️ Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️ Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️ Юридическая чистота — каждая сделка прозрачна.
+✔️ Персонализированные предложения для клиентов
+ 
+Специальные предложение до конца месяца:
+— Выгода до 600 000 рублей на покупку автомобиля
+— Дополнительное оборудование  в подарок за визит в день обращения*
+— Кредит от 0,01% со сроком до 8 лет
+— 5 работ ТО в подарок
+— Шинный отель на год
+ 
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+Мы не просто продаем автомобили — мы сопровождаем:
+ 
+Сервис, диагностика — полный цикл в одном месте
+ 
+ 
+Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет.
+ 
+Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дилер Belgee, купить Belgee, Belgee цена, трейд-ин Belgee, кредит 0,01%, Belgee в наличии, тест-драйв Belgee, гарантия 5 лет, Belgee X50 новый, Belgee X70 полный привод, Белджи официальный дилер, кроссовер 2026
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>2039990</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>110000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>310000</MaxDiscount>
+		<Color>Голубой</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>S50</Model>
+		<GenerationId>22428694</GenerationId>
+		<ModificationId>22428700</ModificationId>
+		<ComplectationId>22450019</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8824ZXTB207426</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -223,89 +223,6 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8622Z4TB922758</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>116dd8d240b26a5729a69e14c4517fd8</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
-		<Category>Автомобили</Category>
-		<Description>"Belgee у официального дилера: свежие партии 2026 года
- 
-Belgee Партнер-Авто Самара это:
- 
-✔️ Прозрачные условия без скрытых финансовых продуктов.
-✔️ Справедливая и быстрая оценка вашего авто.
-✔️ Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️ Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️ Юридическая чистота — каждая сделка прозрачна.
-✔️ Персонализированные предложения для клиентов
- 
-Специальные предложение до конца месяца:
-— Выгода до 600 000 рублей на покупку автомобиля
-— Дополнительное оборудование  в подарок за визит в день обращения*
-— Кредит от 0,01% со сроком до 8 лет
-— 5 работ ТО в подарок
-— Шинный отель на год
- 
-Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-Мы не просто продаем автомобили — мы сопровождаем:
- 
-Сервис, диагностика — полный цикл в одном месте
- 
- 
-Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет.
- 
-Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дилер Belgee, купить Belgee, Belgee цена, трейд-ин Belgee, кредит 0,01%, Belgee в наличии, тест-драйв Belgee, гарантия 5 лет, Belgee X50 новый, Belgee X70 полный привод, Белджи официальный дилер, кроссовер 2026
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>2505990</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>300000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/b4a911219de3beb4390687f41c0d2a59.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/e5536369e4941827ba9bccda26eec998.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/15e272ec603ed09291c7f007c9316642.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/2d02555bc9270ef5b788847ac2b29df8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/7ca033c9cb9e3291992476b3685f556c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/daff42e3b492836008d9bb5a45009a84.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/5caf06d8df6fdc29085c35231c2eef40.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/8ea06b3e077e3771382c77386c72780a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/125374bca703a3f82b238e588d6de019.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/79374b6f535582a59db26c56e7135897.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/6f59e63f71bd6a1eeb3673b2b0672aef.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/d966d83b72337387e9c37b7639556585.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/0bc11bfecd2f7a274cdd223f7b5c1ec4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/74821a2f1d9a1b7bed9a74958869c7d8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/4c657194ad60ecb981b5f39798194d51.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/105f11ac81c2171d412be9c742c52c72.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/8b11337e0f0a6b0a6306bf37b5f5fd56.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/ce9db752e0db2195292a38889b1fd2b0.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z4TB923375/e655c8493e195e6055b99cc39596791b.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22574454</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z4TB923375</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
