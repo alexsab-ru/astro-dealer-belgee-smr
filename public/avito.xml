@@ -1,67 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
-		<Id>3c098c07764978f59b5038df0e4f39b9</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
-		<Category>Автомобили</Category>
-		<Description>Belgee Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
- Выгода до 600 000 рублей на покупку автомобиля
- Дополнительное оборудование в подарок за визит в день обращения*
- Кредит от 0,01% со сроком до 8 лет
- 5 работ ТО в подарок
- Шинный отель на год
-
-Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
- Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
- Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет  
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>2039990</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>110000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>310000</MaxDiscount>
-		<Color>Голубой</Color>
-		<Images />
-		<Make>Belgee</Make>
-		<Model>S50</Model>
-		<GenerationId>22428694</GenerationId>
-		<ModificationId>22428700</ModificationId>
-		<ComplectationId>22450019</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>4</Doors>
-		<BodyType>Седан</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8824ZXTB207426</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>bda536566257d931883a2c939a78a957</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -436,7 +374,27 @@
 		<InsuranceDiscount />
 		<MaxDiscount>380000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/0e6777e7b56920c4e00396c988dbdb52.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/5fad2cc0280e15402feb482ba1279584.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/904589084bc4a1e366a4ac767b971b30.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/798bdd90dc87bacbc3f41316eca89b09.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/56b4e70e712e7fcecdfec40e4c42ac69.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/384df83f479305ca2da3712831ca6681.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/c447625caff384c81ee6f03077c423a9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/65cfef11feab326a3b26ba886afa58cf.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/2c17300b11ce151bf24fe344217254c4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/acfa209eee345f457fa3150b71ef8500.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/7e61f2027ca13959cfdced4675be10f8.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/ae3463e87b878fd0a0d631822b4900a1.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/893ad0928120849dde935aaea4b1e169.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/39eeb122183afb718f89f0461245e683.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/ffdb975da1cdcefd9db6d4710496f368.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/b9af8209bde542240b1b3a16505c08d6.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/bb706db6fc0dffd891a264d5e91dc8f2.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/3dc856f12f9c30c2e7761d5454c98f54.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D0TB310865/828d5277ad4d50f0f7f826d464472ba0.jpg" />
+		</Images>
 		<Make>Belgee</Make>
 		<Model>X70</Model>
 		<GenerationId>22446053</GenerationId>
@@ -498,7 +456,21 @@
 		<InsuranceDiscount />
 		<MaxDiscount>380000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/e6c5443fcf7061548e25098e8be3a3ed.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/b50a76eeab743e1527f0ffa572ac5bd6.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/444a0e39830cf11cfce83bb282822292.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/b6e64262fd1d3b9fd0d97b4c8a254c5d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/fb698670c9e8a41b6f1daa729443db40.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/a587d71e130e1ebe50bf7441d83fca3f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/753760f9b37c59362696b4d3f185bdd7.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/07aabbd63af53b7a802d4fa8f159fd24.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/b431c7ec1a51ffe07c7fc4a2b867accd.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/353f192b93ec3901a0eb83575147dd6d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/31b91eb0d6cce3219c73e985daf5ff2b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/063331060723721a55173f9b89770677.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB310950/208e699ccdafcba5a80b9aa6b257b569.jpg" />
+		</Images>
 		<Make>Belgee</Make>
 		<Model>X70</Model>
 		<GenerationId>22446053</GenerationId>
