@@ -289,92 +289,10 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>b12ea0179cd4debf231801509c4cd089</Id>
+		<Id>a970ed9e7a0766f050955613cc92e4df</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
-		<Category>Автомобили</Category>
-		<Description>Belgee Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
- Выгода до 600 000 рублей на покупку автомобиля
- Дополнительное оборудование в подарок за визит в день обращения*
- Кредит от 0,01% со сроком до 8 лет
- 5 работ ТО в подарок
- Шинный отель на год
-
-Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
- Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
- Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет  
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>2505990</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>300000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/1dab89970232acbc9d62a65a6e97b178.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/87556dc3b469ffbeebac8f95eca01fe9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/0874ca19905df742067e513477af75fb.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/cda0cab6a3da29c8bee113273eca2237.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/156381459f5846c59dd9394cbcc94dab.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/25dfac5a9e6efc724a1fcd0a6b8a0c44.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/983971a6130ad3adab308544ecfee806.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/71bb800d468eb8ffdca02683411a6741.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/2a1e998e1d2e00b510d84af8dc7500d5.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/713fa3ac83cbd6da85bb650be4496707.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/f5948108698739570c36b1e064df85b9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/b8a9e7db02f7a66d18e909b4028cf5b8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/358aa1bb65979124b157713a9fa61fc4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/ee5bd91339839eae8b78f8b74d21e526.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/ed516707d1f0d96e2c89918a5b7887e4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/427df67e7e5ada4ffe93c339dbdd4ef3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/eb800a7d12f85f0515ea8e18bed476d9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/8408dff81aff513f66a0dc0832cf732d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/822f9c7b3977d7d930280da158bda964.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22574454</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622ZXTB925938</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>60e9772b3223aac8eeae364dafae7e55</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<Category>Автомобили</Category>
 		<Description>Belgee Партнер-Авто Самара это:
 
@@ -448,6 +366,88 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8622Z0TB925494</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>e58c0a01e211dade53948cdc7c9e07ad</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Belgee Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>2505990</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>300000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/1dab89970232acbc9d62a65a6e97b178.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/87556dc3b469ffbeebac8f95eca01fe9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/0874ca19905df742067e513477af75fb.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/cda0cab6a3da29c8bee113273eca2237.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/156381459f5846c59dd9394cbcc94dab.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/25dfac5a9e6efc724a1fcd0a6b8a0c44.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/983971a6130ad3adab308544ecfee806.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/71bb800d468eb8ffdca02683411a6741.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/2a1e998e1d2e00b510d84af8dc7500d5.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/713fa3ac83cbd6da85bb650be4496707.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/f5948108698739570c36b1e064df85b9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/b8a9e7db02f7a66d18e909b4028cf5b8.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/358aa1bb65979124b157713a9fa61fc4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/ee5bd91339839eae8b78f8b74d21e526.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/ed516707d1f0d96e2c89918a5b7887e4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/427df67e7e5ada4ffe93c339dbdd4ef3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/eb800a7d12f85f0515ea8e18bed476d9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/8408dff81aff513f66a0dc0832cf732d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622ZXTB925938/822f9c7b3977d7d930280da158bda964.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50+</Model>
+		<GenerationId>22573975</GenerationId>
+		<ModificationId>22573976</ModificationId>
+		<ComplectationId>22574454</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622ZXTB925938</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -838,6 +838,130 @@ Belgee X50+, Belgee X70, Belgee S50, Belgee 2026, официальный дил�
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8722D6TB311146</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>ff80d63c3254c95ec5ef0cb3c4c7cfb2</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>Belgee Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>2365990</Price>
+		<TradeinDiscount>80000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>280000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22446053</GenerationId>
+		<ModificationId>22446574</ModificationId>
+		<ComplectationId>22544967</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722Z8TB311869</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>26a331e098a787f6dbe90480b64eae48</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>Belgee Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>2365990</Price>
+		<TradeinDiscount>80000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>280000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22446053</GenerationId>
+		<ModificationId>22446574</ModificationId>
+		<ComplectationId>22544967</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722Z8TB311872</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
