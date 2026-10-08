@@ -67,25 +67,23 @@
 		<MaxDiscount>395990</MaxDiscount>
 		<Color>Голубой</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/acb5a8a97e89e35ca96928a2bf8e2791.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/f6015b0ad45c772d1831647c6781767d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/deb1be5ad93b30afa3068eeede592729.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/21dbb797b7ba2f0de7a89cbbbfa0ee62.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/430c4a30bb6359a9d3507eb59f5ea704.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/28ae149bb29f59785171915db8aeed88.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/b33b9b50d4ad91b93d615355ec618c31.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/ae41367d9be280b05afdfef184e98734.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/2f245976184b778c1a9e58332ce90e51.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/ef5c718d50d20bcb16364f338b30197b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/8b51ba874b401dd0a2aab9ae00471b48.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/52323b3b266526b2813705bb7078fbab.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/cda793817342084c3839fcd4315bcae1.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/3fe99acbd6fb1fc2bcc9ae7a3a755e3c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/b2e55f231a6b60de0772223b2ba04979.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/2d7f39fe749e27903e14b1a74ec778b2.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/505e234e83d54c31fcda2fa7cf2c4c23.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/84395ffb23addbebb36f0d4f0c2802cd.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/8a1670ca567a5194809a3606e97358e5.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/40b2e0d5881c1ee5ca6034685aa40248.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/52de34879aede50d1c11113e11794d93.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/cbac9fc1478f002d27fc5a144b2ca88a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/5d43068a19081ffa796de357320c672e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/688f623325f4176057a227c22fb6d2a3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/ff5a17c9a0a4b70d7f1ecef63a903a2c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/17469d3d21fa7c221c089dfbcf1e102e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/f28e3284069db96b6776d6ee27245013.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/ea07c2a4ac3c96e5378bd53d0963503a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/ed459e1110af73897784fb9ab0e76207.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/66a64b4cc5b0af7d633afbb83a31d17c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/1b140da9e1bac64020f59cdf090fa9bd.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/87f39ba9918338bd7124dc9c18130076.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/0209ba16fbb3e8f44ff160be3b06e6ab.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/41a717b0ada50f9ec69da41523c6db02.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/16fd166500b9191890f7fac0af1a6b95.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8824Z7TB214396/3e0e5399a8bf7d9b6c1ab6cb26118404.jpg" />
 		</Images>
 		<Make>Belgee</Make>
 		<Model>S50</Model>
@@ -100,115 +98,6 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8824Z7TB214396</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>b7b43543911b4bed1994fe13214e824d</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Партнер-Авто Самара официальный дилер BELGEE
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
-Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
-✅ Предлoжeние ограничено.
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     BELGEE Х50+ Оникс  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’340 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’760 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 130 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>2799990</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount>29990</InsuranceDiscount>
-		<MaxDiscount>459990</MaxDiscount>
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/7b870d002e22d46b81a86117fe78a2fc.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/b0c794429f331eb055a37889b7bc59b5.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/f91f3157769f4a86c7d05514ac527bee.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/313026a163efdba390324b51618c0ba9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/7f30ab5017137f8d7076c39c8db82ed9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/593bb5cfc750c035445f9ff1d6e5dc8a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/85e6e2c44fe9d9135d8950cd98f3f4b3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/d6a60024c2864872d51ba9ddc27fca17.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/090c8b95b7983bac290bdaae43d722b8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/b7f495a10b36e01dab3dc1e7169db1fd.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/5c91e2b68758bf9e923001bb08b7382f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/544dde1fc24a338977b43ffcee3dad93.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/dfb82ae61b40a19d02d1e9b9578e221e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/3541f38c1e87609449ef87602a6e2841.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/dda5a5edd6867fd461b970333bf2be8a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/61fa3f03f384946f68caa384eea7bbda.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/7146399191ae871b8de1ed02d6d48858.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/c96429168ff22900eb829d719dc80e17.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/fef991abe9d371713ff7a5fb88be014d.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22588174</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z7TB942681</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -285,25 +174,23 @@
 		<MaxDiscount>459990</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/4201b0a1200377f4130f318b537ee3de.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/f939429e3a1d2f02fc688f8f204415da.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/58abb7d52347c4ab2fe07a2de98535b8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/86f4efa31a56a3f4d126735e92853316.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/ad5348795db997b333c748e6f8ef28c3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/848375550f94199210cab72334f36831.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/e4796209cf72d6895b69ea49a19450c2.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/ba3359aee1604543fc4730e0c1f199cd.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/54e5c6a65314a0439d6a886eb73b5f7f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/6a1cbf34d214cda1ad48954ddcb4b4fc.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/23111c69871e47bde4ebd9f3733cec5c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/17338048625a0f717fe111e7ec448c2c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/b8a9610f9082c8c2f44506908a674fb9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/7692d83bea4fac0e42b31f03834a7f0b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/7291f971b79e87c47c57d577d5f5aeaf.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/7ee7330eeb22eed374709ab844d50b37.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/a1b4a8751dc9fdc366087b0b1f5caa05.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/434ce38091c4a7b024d8031f71ca523c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/3cb61d98eb4756b92224a746c7892012.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/11d707d6b06a2dd36fce33f94ec303dd.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/8dfd5bd9cd3d5c56581473e986f5ea4c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/c0367d83584642dee281b345c452dc56.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/3fd52dfc7427191286c513e81dd97ea2.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/9d216f389e94f039768542b3de1c682e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/1387b56fc6de5b55fa302309ab0a5393.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/746f5bc3f9e9c6e6811bbaae8b3b9e8a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/56e52e7f55a3804c4da70fbfc9af52f6.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/c7044e424b1796f9e822e22f0e27b308.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/8d6139b729a5178f6b9f75ad8bd6fa06.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/09454ffc1d0c6f66623659bb3090835b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/eafdb30e50357053170d569cb874c048.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/952dbe5a18cb96dbc692bbd0f36ec73c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/8814079a94eac62321976360d5f7a5fb.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/6f853d0ac8a3521a50b1400a42e16aac.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/f85dff4525e41765ee9191fcc9216a66.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB942916/0ce67ed8b2bebbbd42426080aa233b3d.jpg" />
 		</Images>
 		<Make>Belgee</Make>
 		<Model>X50+</Model>
@@ -323,7 +210,7 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>c6c2bc02eb7aa109001eb73c14338bff</Id>
+		<Id>b7b43543911b4bed1994fe13214e824d</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -351,10 +238,10 @@
 ✅ Предлoжeние ограничено.
 
    Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     BELGEE Х50+ Престиж  с  гарантией качества до 5 лет или до 150 000 км  ❗
+ ❗     BELGEE Х50+ Оникс  с  гарантией качества до 5 лет или до 150 000 км  ❗
 
 
-Цена 2’240 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+Цена 2’340 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
 
 
 ☝️ На цену нового автомобиля в договоре купли-продажи влияют:
@@ -372,7 +259,7 @@
 ❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
 
 
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’660 т.р.
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’760 т.р.
 
 Выгоды:
 1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
@@ -387,37 +274,37 @@
 ☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
 
 ☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>2699990</Price>
+		<Price>2799990</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>29990</InsuranceDiscount>
 		<MaxDiscount>459990</MaxDiscount>
-		<Color>Белый</Color>
+		<Color>Черный</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/4c3ddf2e18904d1e8e628743f0c670c5.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/ba1e7ffb813484dd8d0ed5813dd6ed55.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/a101ccf1f37c4d3594deb589d313100e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/0e41b73fd853e16fc832e37c8a34437e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/5ca5b56122945b5c6f759cf788b4177f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/8ba3e80ca132a69de071b5cc103a7373.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/731f31513f99bedce4101cad700ed883.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/361f4e02f4bda13709f62ebe4f29c0a9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/a98dae4ed0ec429418c50a6dbf41a81b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/ea5c24b185b01fb52d2b127cf68ed33b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/53703dc92c22d9e71116aadc131811b3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/6397f6587246fca2738d21be7eba59a3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/65ca42b37ef4d87392df4d49da9e5962.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/e908a9ded8dae9a921c39ec9a437d8ad.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/61c7b429ec3aa547324b5273deb6e666.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/50fc741d8e2b1f0259ada4371ef5fb67.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/a642b94176a53954b9efb61a8c72a4d4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/0ebff0c9e63cbe91cbd31bd1865eba2e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/4e9c802d8377f115ab3573f31eb68376.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/8739ccd7272c2c96738c9a369df3bb14.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/d3a3cdd0d97f035384628a3d23b8ac03.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/0d24ede7fdfdef4e505e3d06c2b91e2b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/b686c0f08fe817a2113de1674c80533b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/579c27c54ec71e9edb0e576b721097f9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/75c1649a709c29c8aaed57be54fb9c2c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/fccf77bf642dc8d0fce64a3434ba65ee.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/bb2375b5fad3866d0aab5ab60c5ac1ea.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/d85bdd640634ff8582d42d3530b25699.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/3df968d62b294077c21b4c19eed8089b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/2e87ccfb0842df7494f2b19f7d3600c8.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/5c971d985332cf906c2cefd88a160a21.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/779b6da9434016ff91944db689514d31.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/505e409c80a66bfa37bdd3f504b75b31.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/7ef1e337309355b0d02e241e9eb73db9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/44a759e3baecf9da573c6572e9e7a42d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB942681/79a770430ce069f5db75bb8f60329bab.jpg" />
 		</Images>
 		<Make>Belgee</Make>
 		<Model>X50+</Model>
 		<GenerationId>22573975</GenerationId>
 		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22573977</ComplectationId>
+		<ComplectationId>22588174</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Робот</Transmission>
 		<Year>2026</Year>
@@ -425,7 +312,7 @@
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z9TB940561</VIN>
+		<VIN>Y4K8622Z7TB942681</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -502,24 +389,24 @@
 		<MaxDiscount>459990</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/477adedcf8d8a11977e6355f07c8f535.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/995b17acdc85b8022f011340b11b1260.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/9ef5b51025d7f08d105b933ea3d7fd06.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/89752caa80f03f5ba8f34acbef6bc9df.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/84f13a8a0bfab2fc41116f5cc5a2e230.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/8c9f583736b1a03f98d44d66c69ec0da.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/32f9f0215a7ce7823b4af71f2165ccd6.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/06d07d7242019c203e64112f2892713c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/1763d5cd2101fee8bd01552d8008f1f3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/629efc3f410293ea804df2cb7a74d1b9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/4422edfc7a506081ad67e05ea155c7dd.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/2a892d55f32c489e40f27605503fd1bc.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/c3509cae1e14f0400b601eca33e39cb6.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/d91891459fc07f587ca5e4e4f83e965f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/8ab6feb4a70817aefe91d0b99becebc4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/ccde97f9fd8e7a87827aea6d18a0ca6c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/b9083f8629fc6fbced6da4b8812358a2.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/b81fbc34ae2cc3137ad0426712aee6ab.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/46aafa52a194db88cdad682cc8c4d321.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/4b622c5e20b039435b2b67ee5918fa82.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/3202679763cf0321f01f38cae64d948d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/f025c1cef3acadb09d553521252623c9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/704747b32821f1b5fe6fffc75ddf5cdf.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/fee1462629d80b00006fbdedc91d0d35.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/3f2e3bf79e2e81edae5c3cf865e26917.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/32d395a3f5f14d6b57c32baa54a22e00.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/0ba0b4e360790e33baceb5d531d5129b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/9f063ecb750d12a08c511d603fdc229d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/547d3d491ef3e30e27fda0f3acc8f4c4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/2252b3ae5ad21458595aa800ee71752a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/73d73e8cb2e245e236e2cd57814297a3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/de18944aeb54bc70d582caf89769653f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/e57f975bf6901be7c8f9ae366465067f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/c8c1e4c0570630598703d4d09e86695b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/b2a2233580b09814abb7e4a97c3da349.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB930633/4c7caa8311c23bef71ded461e2be5226.jpg" />
 		</Images>
 		<Make>Belgee</Make>
 		<Model>X50+</Model>
@@ -610,24 +497,24 @@
 		<MaxDiscount>459990</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/652fad31f779f3f0a02e8ac6a343c98a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/dbe61d953a24348685b8f1f8347f19d4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/edacffa5c49a722a01eeed54daa69753.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/acefa4c1afdd83935ec502c4497c94a8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/6e8ba93056cba8caad11540de2b8544e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/826e5fe534d307ebe70b5c9c8d752ce9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/6885a7815810090e9a8d57884322b3ec.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/f7dd107b1329b7444ed5d499f2f501d2.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/e0264a983b3e39b50a64e3901056e6b8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/6e493f8f2a98343193843eb5138e8420.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/7fd9a389d6d670ae91d0b08df834c5d9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/871316846c3c2c555d5b79b591a76a8b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/8dd89bbdb7709bad853cb8876aefd03f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/72912c2b85ac77d46e441fcd03c08d5b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/365e31ce7366e9dbcc523c8ce3270b32.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/89debd8e6b83af6f75b1e7bc2921ee5c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/8337cb1fe2fc44c2f1e1ab8b3c03b057.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/9cf7955393dea2ddcbb2e577dadc27b9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/ac482f29946e02e2db4ccbd2d328c19a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/521a210e0f016e88dd67217e9086085e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/a9d0d74a3764eba2f90667472028bd9f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/a964153b6191131497b28170f99f2b69.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/c3b008154e5387a91aa53179e62d3d37.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/27bbb8534a682b6ff959d6e88b2aa58a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/7a3efe27ad663a7b0c18653528eafe64.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/77fe1e4ed8b0f7a54921a9f866d55fda.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/5aca1a5753d58bce68743e2bc24e1a68.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/07539ee5acd25764fb4cc67ffd69a62e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/f754b36964626fc8a620211624176b50.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/884cb73f52932a341743a1ac97d42d01.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/082f3f3652a87eb7b0fa5297c8c5c760.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/b02b84c5bc29b50baadfea24cb0e01e2.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/192bdb81bc54e954270651eeb41367e5.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/a7b38f8795b55b8075ed8592f2719142.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/9303da8e8c9156a87f91574fd0dc4db0.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB922060/e707f6693cc750d98e3e42f095c1aadf.jpg" />
 		</Images>
 		<Make>Belgee</Make>
 		<Model>X50+</Model>
@@ -647,7 +534,7 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>521b3b06f864ca77f4ff4a7bdfc33919</Id>
+		<Id>c6c2bc02eb7aa109001eb73c14338bff</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -716,27 +603,26 @@
 		<CreditDiscount />
 		<InsuranceDiscount>29990</InsuranceDiscount>
 		<MaxDiscount>459990</MaxDiscount>
-		<Color>Серый</Color>
+		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/9d01f0a2b621deeb4664df2e2482b25d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/411b1ddf7fe8f60b1f8ba3f08fc810e0.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/b75669f722a7e13304836b14b1a8b7a8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/41b2ac0609dfd12861c9367ed1fe5c74.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/74d88205e254e8f096aebc455ee2c24c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/0cc33b5591ad6deb156df31361195ed6.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/5aff908e6ddd49472e99fce1e4584b47.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/86b8f821e90a55185c74c44cb8e69b8d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/d6289b2b04b904df4e73475617682673.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/70a64210b69846506bc6c1a796d4c221.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/cea18351ef08bfd6a19e2178aa75a024.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/358b94699ad2c9ef9cb997b6ba4f70ee.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/177096ce8c60a31bb879d7f95e0b252a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/7c98c7b0bb91c9d8cfad5013b6b1e47d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/0d95770e8100e3b3e98261ec6c9af101.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/e5fa7c66d6d419f74e94a105ba7f79b0.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/9e4fc43d103c713938bf6e6bbd6d8e19.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/5708af8114f4833f887fd5c1821e7985.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/4dfab5b9a38228d53e05c1f85a65067b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/f688d78ff093d81141d0161ff7ade80d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/b33e06364addfb18b792ded2bf07d64a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/d273d0ff8b5a11d7c13520a21042d7b5.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/04ce8da33a13b4f6c40c55b53a21280e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/2a340fc5240d4b4c1fb0742c885cf39d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/0c0e547e8d315322ba6638c3791671b5.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/06c368cd3c1014147c75dc8c7bf3ec46.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/a3adbaebac79509e90aa3d41fbe5c27b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/1bf0624cfd4de1d0162f03e3d8d96b85.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/e0c27638e8409efe0c8c1c5b8a857112.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/b3f1b1ca85907c25bd41a16c97b30179.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/4330aee1d9eae2b2b1bbc1b943da71c6.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/7f3ec84a52a4633c843a0037abdde325.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/748d487361695e1ddc9f884012da9244.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/5923c41f34b466a2580a133b6eb9baa1.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/c1896045f08fdd1aebbad19f833df967.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/4ca12c08704734844a0720729f245b9b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB940561/61e9c5316712239c3b440296a60d50d6.jpg" />
 		</Images>
 		<Make>Belgee</Make>
 		<Model>X50+</Model>
@@ -750,116 +636,7 @@
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z3TB939440</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>2453f332bfa0e56142ffb8c7f3bcf549</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Партнер-Авто Самара официальный дилер BELGEE
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
-Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
-✅ Предлoжeние ограничено.
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     BELGEE Х50+ Престиж  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’240 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’660 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 130 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>2699990</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount>29990</InsuranceDiscount>
-		<MaxDiscount>459990</MaxDiscount>
-		<Color>Серебряный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/fe6a6bbcb9b78801be722c82b415b9dc.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/227878620fedce8afef2037606cb77e6.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/9545a679c7bdd419c6c4cf68d18a615b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/92935d62fa53bfd2956b920cc8867375.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/c1c11e5921826aea5d949cfe303d5efa.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/749fd595d38d70d2af85a7c06f460f59.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/993fcb3f427c610b4a4ffdc8e2c9003f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/b19e41347093d5db7b796c8e6c467b47.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/c4f216d62d129cfa465a325b28a1b4c2.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/7d74bde2e2192e3ea14bde0800a14489.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/7ae39c27ed5ae5dc420f3a3abfee57d0.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/ba077a4dfb48dd08e52f2f716c1d7bed.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/8f4b3a39b9f7d46f71327822baf074cc.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/2cd922d4a45afac41c3752e973e18dc4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/0a97f9ba13421ffbdd995c71a13c6965.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/86bcf46779797429912d0ee1e56298f1.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/46b8c6cc36da78b97a980da1a67f801a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/956792af3dabf8c9ffa0baed1e14d1c9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/d53648c69fbe394c375b3ef870bbe636.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22573977</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z2TB940112</VIN>
+		<VIN>Y4K8622Z9TB940561</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -1077,6 +854,115 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8622Z9TB940124</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>2453f332bfa0e56142ffb8c7f3bcf549</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Самара официальный дилер BELGEE
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
+Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
+✅ Предлoжeние ограничено.
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     BELGEE Х50+ Престиж  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’240 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’660 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 130 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>2699990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount>29990</InsuranceDiscount>
+		<MaxDiscount>459990</MaxDiscount>
+		<Color>Серебряный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/fdc620657bf677040004cd390adf2c62.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/59f7eda0ac59795dc3619e0f0186345e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/cb7a29784f352416ee85fbfd2d71fd05.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/5cfc1b608a818fdabb88e7f8537b4ea9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/731dad316333ab156bb917fae4c3ffa4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/15f69d0cd2bd7947624a596f291c5468.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/f51aeb0b886f6be7c5890738e49ac7ff.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/615557776c87bb8803fedc08c3dd7e50.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/c489ec82ccea3a2da2aebdcc818c151b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/976769bb9f8310da9f2ceadba86ad232.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/f86e5a8f239bb6cb762f694612226f06.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/06986d986d9b48198cc40940c54e3622.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/dbd181ab79bd08604c9f8d5a71069c5e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/9c0d26467038e15b75cc522866856118.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/4aa3641359bbfa674c0365cea816024a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/ace7fbe69003f44991d44bee03c346f2.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/31fe0c35d8e39c712ac1512b6a95297e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/6129daef9ab478a93e95ee399e961ae2.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB940112/7ae1c65f66242ac4b4b285f38545d164.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50+</Model>
+		<GenerationId>22573975</GenerationId>
+		<ModificationId>22573976</ModificationId>
+		<ComplectationId>22573977</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z2TB940112</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -1300,6 +1186,115 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>f1f421167915fa21e512f597945be76a</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Самара официальный дилер BELGEE
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
+Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
+✅ Предлoжeние ограничено.
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     BELGEE Х50+ Престиж  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’240 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’660 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 130 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>2699990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount>29990</InsuranceDiscount>
+		<MaxDiscount>459990</MaxDiscount>
+		<Color>Серебряный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/4ae72f4077df698e6722f018338b6a61.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/10a32beb91274e658f416f9eb6a8c9bc.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/fb48e6dd671caeb3fa3ce89b665373c1.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/076cede0845c55c97f5c0eb4e1bb9f7d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/71f928d670b4320b4e8628933c0e200f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/b2684b2a0257cfd78415dc67ca67a52f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/0d1f5ccaf971a433a937507b7a0e8ebc.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/d117c513b832a63dbae1adb7fb5ec4ab.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/e0c322fbfd978f1c42098fd82eaadc4d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/70e8b0a05afaa338e8158ec76853be4d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/330eb4851f2d6cb9d37ef21bbc8f8cb2.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/a46ba40c548ec75def32d5439477548e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/f2b3efc1df9a60a7a918071852840db2.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/c4d67596b60aaa9df6d48a70343eb73c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/532d337e488f639fd3f3ff9412f0f996.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/71569cb8806578314253a61dc6647e89.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/71eaf1e66e01e96d12e9748876a7eb6d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/c01a21ab66cfb38908b8a54419eb452b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/362335c606c70b04c2c07de64145bac4.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50+</Model>
+		<GenerationId>22573975</GenerationId>
+		<ModificationId>22573976</ModificationId>
+		<ComplectationId>22573977</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z0TB942862</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>bdb9f7f5aecabfac07e655fd9df18794</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -1409,7 +1404,7 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>f1f421167915fa21e512f597945be76a</Id>
+		<Id>521b3b06f864ca77f4ff4a7bdfc33919</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -1478,27 +1473,27 @@
 		<CreditDiscount />
 		<InsuranceDiscount>29990</InsuranceDiscount>
 		<MaxDiscount>459990</MaxDiscount>
-		<Color>Серебряный</Color>
+		<Color>Серый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/4ae72f4077df698e6722f018338b6a61.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/10a32beb91274e658f416f9eb6a8c9bc.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/fb48e6dd671caeb3fa3ce89b665373c1.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/076cede0845c55c97f5c0eb4e1bb9f7d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/71f928d670b4320b4e8628933c0e200f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/b2684b2a0257cfd78415dc67ca67a52f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/0d1f5ccaf971a433a937507b7a0e8ebc.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/d117c513b832a63dbae1adb7fb5ec4ab.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/e0c322fbfd978f1c42098fd82eaadc4d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/70e8b0a05afaa338e8158ec76853be4d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/330eb4851f2d6cb9d37ef21bbc8f8cb2.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/a46ba40c548ec75def32d5439477548e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/f2b3efc1df9a60a7a918071852840db2.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/c4d67596b60aaa9df6d48a70343eb73c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/532d337e488f639fd3f3ff9412f0f996.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/71569cb8806578314253a61dc6647e89.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/71eaf1e66e01e96d12e9748876a7eb6d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/c01a21ab66cfb38908b8a54419eb452b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB942862/362335c606c70b04c2c07de64145bac4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/6c279565adc093abb34070f4450e8c19.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/27ecdd9272b53c1d89cc009e75814173.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/bd9f07bee0e8664ccff6ccbd235f7e8d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/2ab1d7c708eb0c537037d61a0b118d11.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/d3b482e6389c3be8fb2bdd1e4a8f8459.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/a95ef08b721a7977b1d5e81b3e611695.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/5a6ae7190d53e2277ccbe812693c13db.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/08687db284c116fd6bafb6e1f457aa62.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/426266ea0efff69e7acef19b0df17283.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/66939ea2bdfa8708d6f6c71e268b8959.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/05402b8ac62d96e93956bdd8a5356f45.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/dafb485d44babc235658e5482eb3a248.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/b37e15e6e4c5baad37ffe7fa0f5f072c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/2c96e5c9455cc791aa322f973be058b1.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/00f838396af1c00bba70f382605a5783.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/0b451bbe6b9d579e765d6e07e13b371a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/8166d8aa7e5d89b0478ca5706dba8853.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/fc28d0e89a58c5f26757069c7b7ebcba.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z3TB939440/9bb5bdb39d42bc66db02d40b6e1e40fd.jpg" />
 		</Images>
 		<Make>Belgee</Make>
 		<Model>X50+</Model>
@@ -1512,7 +1507,7 @@
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z0TB942862</VIN>
+		<VIN>Y4K8622Z3TB939440</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -1736,442 +1731,6 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>4aafcf6684478b2b57077181352fc8f3</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Партнер-Авто Самара официальный дилер BELGEE
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
-Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
-✅ Предлoжeние ограничено.
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>2509990</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount>29990</InsuranceDiscount>
-		<MaxDiscount>489990</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/8e13f92a5da7fd9d5ee503ec52366319.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/a7e3914c21663cb1ff90e6b422b59579.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/f1d4af3e2d451f2f1c6fa8fe6856c1ee.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/1583d3a30b826a1ed526898d7aac9ef5.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/d4efb436898d83c61ff953c355929012.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/f4877ab5680d89aedf1c6174f7f3018f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/be539fba4b8d9b8dddfaaa58a13d1459.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/23bb945e095a221c68597fd830f7ec91.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/551fc5f2a54bbfbdf65956d9361a1c81.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/981ac33b88664aa4db86bc9251b408ed.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/69ad6c7610a03d60b4672d60c5a3eb12.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/c76e5f60cd2b02842b237f2c12f7bbf1.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/5e215dd7a78b33de0890ae57c90f8c6d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/8952a542effc6c447ff2df96d3d82dfe.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/719d3d5ec3862384795258a362d5c103.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/ec7db7a2b761e1031bdcca6fe59e692c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/416adb8830f546ae9df4b54c0393b2e2.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/0ccdc746b9ec9111b5dcb511eafcbe62.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/6f666cd8fd3946047e2cc9a3a1f11c78.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22574454</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z1TB942286</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>ac61db97bc0f2aea14de9d8401eebb10</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Партнер-Авто Самара официальный дилер BELGEE
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
-Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
-✅ Предлoжeние ограничено.
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>2509990</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount>29990</InsuranceDiscount>
-		<MaxDiscount>489990</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/377706fc6ceef681c9e1b831c3129940.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/ed49f485bf752717d3895b19206b81e6.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/47fa6b527abb5da86f8e225bfb1489fd.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/6b21e65d0f69d9ddd0252f7fba60be34.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/f4021762754a02c8d693942084a9b3b1.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/cad36943a5ac6d92d3481ad194d50805.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/69aa3604a230eb198fe5bde57574a1c9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/e99acdc13f3fd1dc3e930449bef0df6b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/1b0db62af793a768332451d9c74f5ec7.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/e3f82cfea200f49d99d10c75bc1513b4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/c71026293b57649a923f0bca57b8e0c7.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/fa4083fec02eb544bd1408acd5c2ca93.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/c55cb8e74f7eed4edf5a1df589718c8c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/4a8df77072df02a86ec7e2d3657fa587.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/9e7e023fc59ad3ac3bd52d945da27d44.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/89db559c4700f05f05f667cd75905852.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/f900465c1839b0272ebf5c82c55fa5c3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/87f74f49a7e6ead70e9492343cf6abb1.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/fd6e50c8e0deed09363d9f4d0ce10682.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22574454</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z5TB943330</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>253b9aca89c1f98a9b83ae16142e8cae</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Партнер-Авто Самара официальный дилер BELGEE
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
-Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
-✅ Предлoжeние ограничено.
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>2509990</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount>29990</InsuranceDiscount>
-		<MaxDiscount>489990</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/a399fdfad58d57faea4024d7da8e06a0.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/b12435ae7492aaabfe4cc7d39bcdf32d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/6cc08c00c361d53d35f7984d982a91ba.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/5409fe4c7cd919374ed5c35c56669972.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/3a6b2b5d60b26ae6719f4e42c2409234.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/a67db4d6e800251803f223ecf48bf6b3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/a68f382c43ad995a061ee2ebc7e32218.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/542fb60eac2ba6b3a930a8d3223e577f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/65903cb1bd243f3597ec51a6754bbec9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/91cbda2a32d28e0b1211977fd2c29e8e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/3b17e5d179f1778e44f82f44cd565e21.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/9700a82c57ac903d14aa6114396a97bf.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/fc831ad789e85777370b142d0459dcaf.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/5932c4a18fbf423fd263e900712d4387.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/33f5de9108dd79655f2a6208fdb4d9f8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/ce696f8662b3db92d44845d596016bcd.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/ee41efbb15e4b15efe1bc5f767d5ce10.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/b8e9bcc6a914392e361a28e46a143fb3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/614c95df93da250a686f3198b9085960.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22574454</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z7TB943345</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>037722967e7b681e6a4e638c7667a90e</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Партнер-Авто Самара официальный дилер BELGEE
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
-Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
-✅ Предлoжeние ограничено.
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>2509990</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount>29990</InsuranceDiscount>
-		<MaxDiscount>489990</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/25e7020e693ca4ba8538604eb09aa5b8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/76649883eb371b39c1216eebfc958a71.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/d1f8b3b9a7ae1ef1ac9df86f0719af7f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/a299cd70d53eefb79895b0d3ff6b4e8d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/c8f87f342910f67101752e463cca2f4e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/ee6743504fb99c987233d99592b49687.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/89cab9c75ba0e6772b2ebd1a0a3a6f37.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/b92979f70e8204be95bc7b1a1300d578.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/04a3e0d0c6fdcf226d2f3dc94219421c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/7f9daef3ac8d48a00a6acc117617769f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/4551df79364d83d69328fc04a93e28fe.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/4a1432109cad371b96bb976dc0f697b7.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/84c93ac5a6f1a390ba2eb5a74ef74f35.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/62ba60b1136edbb37d8ec076e09d6c50.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/0e1d8e6031a50bd264329383a4ca8677.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/ce61a3f63febc193fbb10ce3c233591a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/60a7b99b565b78182b618f030542590d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/d8df7f5914093f5ab86af55d3e8495bc.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/5c01a9e275986b1f5968fb3976597dfd.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22574454</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z1TB932177</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>b6654c1388b02bfdf3615ab3961774b3</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -2276,115 +1835,6 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8622Z0TB932218</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>ce53afd4a53982f0727f837a54e5796c</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Партнер-Авто Самара официальный дилер BELGEE
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
-Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
-✅ Предлoжeние ограничено.
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>2509990</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount>29990</InsuranceDiscount>
-		<MaxDiscount>489990</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/1bfea86e26d58affe1dbeb8ccfb2f3de.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/b833ee5a2213192085d0b551b9b1eee0.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/65cdffa56a22ada251f2faebd2c22138.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/9bb35095765f3e6c2d1cfb6b55a5be9d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/5ce5b5e0f0d4e888e1dcd688aa44d95d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/a4684448bb81e3e41b7cd4e2eb145aa3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/7f32812b232703c5b8796a16410fbaa7.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/04008ddca9ab859ce1c94f624be17fa2.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/4fc12f93194370b06ee25427c142ac19.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/8833ecd991acf0877e649de6e5d7f002.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/80cb0701a5057b59a230fa02cc30576b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/de7affc55dc686c7a95ca0890092d969.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/e4d028ffe77c902ac676e528182aad25.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/7921654b9baa346d8c982814b3fa15e6.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/a35cd4e5ea101b6e23681086e82c7187.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/d5e85467e2f311d4c45e0bdb80c142bb.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/88915f38d2a89953e995939e96cdd3c6.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/51c94593afdf30028d79761fb2f094a7.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/c9015768c98a91c5fee1ccd86dfd34b7.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22574454</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z6TB932241</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -3262,6 +2712,333 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>4aafcf6684478b2b57077181352fc8f3</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Самара официальный дилер BELGEE
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
+Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
+✅ Предлoжeние ограничено.
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>2509990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount>29990</InsuranceDiscount>
+		<MaxDiscount>489990</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/8e13f92a5da7fd9d5ee503ec52366319.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/a7e3914c21663cb1ff90e6b422b59579.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/f1d4af3e2d451f2f1c6fa8fe6856c1ee.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/1583d3a30b826a1ed526898d7aac9ef5.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/d4efb436898d83c61ff953c355929012.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/f4877ab5680d89aedf1c6174f7f3018f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/be539fba4b8d9b8dddfaaa58a13d1459.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/23bb945e095a221c68597fd830f7ec91.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/551fc5f2a54bbfbdf65956d9361a1c81.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/981ac33b88664aa4db86bc9251b408ed.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/69ad6c7610a03d60b4672d60c5a3eb12.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/c76e5f60cd2b02842b237f2c12f7bbf1.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/5e215dd7a78b33de0890ae57c90f8c6d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/8952a542effc6c447ff2df96d3d82dfe.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/719d3d5ec3862384795258a362d5c103.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/ec7db7a2b761e1031bdcca6fe59e692c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/416adb8830f546ae9df4b54c0393b2e2.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/0ccdc746b9ec9111b5dcb511eafcbe62.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB942286/6f666cd8fd3946047e2cc9a3a1f11c78.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50+</Model>
+		<GenerationId>22573975</GenerationId>
+		<ModificationId>22573976</ModificationId>
+		<ComplectationId>22574454</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z1TB942286</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>ac61db97bc0f2aea14de9d8401eebb10</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Самара официальный дилер BELGEE
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
+Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
+✅ Предлoжeние ограничено.
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>2509990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount>29990</InsuranceDiscount>
+		<MaxDiscount>489990</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/377706fc6ceef681c9e1b831c3129940.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/ed49f485bf752717d3895b19206b81e6.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/47fa6b527abb5da86f8e225bfb1489fd.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/6b21e65d0f69d9ddd0252f7fba60be34.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/f4021762754a02c8d693942084a9b3b1.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/cad36943a5ac6d92d3481ad194d50805.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/69aa3604a230eb198fe5bde57574a1c9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/e99acdc13f3fd1dc3e930449bef0df6b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/1b0db62af793a768332451d9c74f5ec7.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/e3f82cfea200f49d99d10c75bc1513b4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/c71026293b57649a923f0bca57b8e0c7.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/fa4083fec02eb544bd1408acd5c2ca93.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/c55cb8e74f7eed4edf5a1df589718c8c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/4a8df77072df02a86ec7e2d3657fa587.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/9e7e023fc59ad3ac3bd52d945da27d44.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/89db559c4700f05f05f667cd75905852.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/f900465c1839b0272ebf5c82c55fa5c3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/87f74f49a7e6ead70e9492343cf6abb1.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z5TB943330/fd6e50c8e0deed09363d9f4d0ce10682.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50+</Model>
+		<GenerationId>22573975</GenerationId>
+		<ModificationId>22573976</ModificationId>
+		<ComplectationId>22574454</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z5TB943330</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>253b9aca89c1f98a9b83ae16142e8cae</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Самара официальный дилер BELGEE
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
+Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
+✅ Предлoжeние ограничено.
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>2509990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount>29990</InsuranceDiscount>
+		<MaxDiscount>489990</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/a399fdfad58d57faea4024d7da8e06a0.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/b12435ae7492aaabfe4cc7d39bcdf32d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/6cc08c00c361d53d35f7984d982a91ba.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/5409fe4c7cd919374ed5c35c56669972.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/3a6b2b5d60b26ae6719f4e42c2409234.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/a67db4d6e800251803f223ecf48bf6b3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/a68f382c43ad995a061ee2ebc7e32218.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/542fb60eac2ba6b3a930a8d3223e577f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/65903cb1bd243f3597ec51a6754bbec9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/91cbda2a32d28e0b1211977fd2c29e8e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/3b17e5d179f1778e44f82f44cd565e21.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/9700a82c57ac903d14aa6114396a97bf.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/fc831ad789e85777370b142d0459dcaf.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/5932c4a18fbf423fd263e900712d4387.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/33f5de9108dd79655f2a6208fdb4d9f8.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/ce696f8662b3db92d44845d596016bcd.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/ee41efbb15e4b15efe1bc5f767d5ce10.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/b8e9bcc6a914392e361a28e46a143fb3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7TB943345/614c95df93da250a686f3198b9085960.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50+</Model>
+		<GenerationId>22573975</GenerationId>
+		<ModificationId>22573976</ModificationId>
+		<ComplectationId>22574454</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z7TB943345</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>7b1965e70fd8c4d7d60055863765478b</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -3370,115 +3147,6 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>363ca7354f7213da082625ec338743a0</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
-		<Category>Автомобили</Category>
-		<Description>Партнер-Авто Самара официальный дилер BELGEE
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
-Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
-✅ Предлoжeние ограничено.
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>2509990</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount>29990</InsuranceDiscount>
-		<MaxDiscount>489990</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/00bd49a831d91773c62e8e01c275abdd.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/225961844105fe3037f59ae39ce1e90d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/d4221346034cd9e4c30b151921b7d64b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/6d4e3b807d0c9372d413d0402714a08f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/9a2e953fb1cf3dd85076243ae29ba1ec.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/2bbcda55a1ff3f6fb03346e6825aba09.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/7328390479668400042741c962865fd0.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/48cab03a14aa3778c8cee31f0311197f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/2877b6386a0f896bd9d08aedefb45d16.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/0f48273d4dde52002b7d395480a4edea.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/0d0de39f4bc67d6e078a9679d5e2872b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/78d165ccb6e6d192dc9c9f1e7b258ebc.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/d8472b4b16b1fa69dca7fbb346231493.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/5c382766725d9a4117198613b6d74027.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/19cd5c0286bc8817d028deedd6d64f47.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/ad79e25d4939901016174dcaf0e7e67f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/0f310d71b898f25da56c06956d86cdf2.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/83a9f8b0df316b42ef7dc20f436066d4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/44a7e20b333d9f4f53a65c43b71e54f5.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22574454</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z9TB943346</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>4a3a6703fff8ce1c0317d15badfee4ca</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -3582,115 +3250,6 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8622Z7TB941711</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>e8a96d85b3aac87c5f245b8cadda998c</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Партнер-Авто Самара официальный дилер BELGEE
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
-Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
-✅ Предлoжeние ограничено.
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>2509990</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount>29990</InsuranceDiscount>
-		<MaxDiscount>489990</MaxDiscount>
-		<Color>Синий</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/ed9b27b06287adcfbad7080b99543d7e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/29a494b53ef05673f9e5a70fec5f2066.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/d4075e7272936ff78e9fa8100176e915.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/b803462d26d427e2c688b72f17d53a22.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/1cb83eaee069159250bdd449a97b3392.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/948c72c29602b4de11062e19c93571da.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/7aa6128de0f8c4e30e501c4f665cd7cd.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/5ee01770e449e12ecdeda81aa1e3afb4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/0f9b9f123c4e07e9ec560dde50daa51a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/28470769f0303305b2a9fff02dfb6bf9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/5cf51c115ae948a4d227be3da4155942.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/fe0f4c0416916ec0b643891903098ad5.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/cf7eb6116e81c927d4cc170fc1f2df9f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/9ae820428c4882e1b2263b5a5a3e8379.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/2c060654ac7aabd414781c4a6abfc49d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/8d9baae28121117f9547265ea95cf861.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/41536a4869169a73c7c112a6b2b0899f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/03bcf82f6b281e3557719f42f5e85c36.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/d3cfc186804fd16601db1e5042f64ea9.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22574454</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z8TB935013</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -3913,6 +3472,442 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>e8a96d85b3aac87c5f245b8cadda998c</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Самара официальный дилер BELGEE
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
+Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
+✅ Предлoжeние ограничено.
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>2509990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount>29990</InsuranceDiscount>
+		<MaxDiscount>489990</MaxDiscount>
+		<Color>Синий</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/ed9b27b06287adcfbad7080b99543d7e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/29a494b53ef05673f9e5a70fec5f2066.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/d4075e7272936ff78e9fa8100176e915.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/b803462d26d427e2c688b72f17d53a22.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/1cb83eaee069159250bdd449a97b3392.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/948c72c29602b4de11062e19c93571da.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/7aa6128de0f8c4e30e501c4f665cd7cd.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/5ee01770e449e12ecdeda81aa1e3afb4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/0f9b9f123c4e07e9ec560dde50daa51a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/28470769f0303305b2a9fff02dfb6bf9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/5cf51c115ae948a4d227be3da4155942.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/fe0f4c0416916ec0b643891903098ad5.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/cf7eb6116e81c927d4cc170fc1f2df9f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/9ae820428c4882e1b2263b5a5a3e8379.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/2c060654ac7aabd414781c4a6abfc49d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/8d9baae28121117f9547265ea95cf861.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/41536a4869169a73c7c112a6b2b0899f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/03bcf82f6b281e3557719f42f5e85c36.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB935013/d3cfc186804fd16601db1e5042f64ea9.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50+</Model>
+		<GenerationId>22573975</GenerationId>
+		<ModificationId>22573976</ModificationId>
+		<ComplectationId>22574454</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z8TB935013</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>363ca7354f7213da082625ec338743a0</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Самара официальный дилер BELGEE
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
+Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
+✅ Предлoжeние ограничено.
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>2509990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount>29990</InsuranceDiscount>
+		<MaxDiscount>489990</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/00bd49a831d91773c62e8e01c275abdd.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/225961844105fe3037f59ae39ce1e90d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/d4221346034cd9e4c30b151921b7d64b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/6d4e3b807d0c9372d413d0402714a08f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/9a2e953fb1cf3dd85076243ae29ba1ec.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/2bbcda55a1ff3f6fb03346e6825aba09.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/7328390479668400042741c962865fd0.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/48cab03a14aa3778c8cee31f0311197f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/2877b6386a0f896bd9d08aedefb45d16.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/0f48273d4dde52002b7d395480a4edea.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/0d0de39f4bc67d6e078a9679d5e2872b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/78d165ccb6e6d192dc9c9f1e7b258ebc.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/d8472b4b16b1fa69dca7fbb346231493.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/5c382766725d9a4117198613b6d74027.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/19cd5c0286bc8817d028deedd6d64f47.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/ad79e25d4939901016174dcaf0e7e67f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/0f310d71b898f25da56c06956d86cdf2.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/83a9f8b0df316b42ef7dc20f436066d4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB943346/44a7e20b333d9f4f53a65c43b71e54f5.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50+</Model>
+		<GenerationId>22573975</GenerationId>
+		<ModificationId>22573976</ModificationId>
+		<ComplectationId>22574454</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z9TB943346</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>037722967e7b681e6a4e638c7667a90e</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Самара официальный дилер BELGEE
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
+Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
+✅ Предлoжeние ограничено.
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>2509990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount>29990</InsuranceDiscount>
+		<MaxDiscount>489990</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/25e7020e693ca4ba8538604eb09aa5b8.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/76649883eb371b39c1216eebfc958a71.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/d1f8b3b9a7ae1ef1ac9df86f0719af7f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/a299cd70d53eefb79895b0d3ff6b4e8d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/c8f87f342910f67101752e463cca2f4e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/ee6743504fb99c987233d99592b49687.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/89cab9c75ba0e6772b2ebd1a0a3a6f37.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/b92979f70e8204be95bc7b1a1300d578.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/04a3e0d0c6fdcf226d2f3dc94219421c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/7f9daef3ac8d48a00a6acc117617769f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/4551df79364d83d69328fc04a93e28fe.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/4a1432109cad371b96bb976dc0f697b7.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/84c93ac5a6f1a390ba2eb5a74ef74f35.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/62ba60b1136edbb37d8ec076e09d6c50.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/0e1d8e6031a50bd264329383a4ca8677.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/ce61a3f63febc193fbb10ce3c233591a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/60a7b99b565b78182b618f030542590d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/d8df7f5914093f5ab86af55d3e8495bc.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB932177/5c01a9e275986b1f5968fb3976597dfd.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50+</Model>
+		<GenerationId>22573975</GenerationId>
+		<ModificationId>22573976</ModificationId>
+		<ComplectationId>22574454</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z1TB932177</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>ce53afd4a53982f0727f837a54e5796c</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Самара официальный дилер BELGEE
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
+Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
+✅ Предлoжeние ограничено.
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     BELGEE Х50+ Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’020 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 300 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’460 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 150 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>2509990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount>29990</InsuranceDiscount>
+		<MaxDiscount>489990</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/1bfea86e26d58affe1dbeb8ccfb2f3de.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/b833ee5a2213192085d0b551b9b1eee0.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/65cdffa56a22ada251f2faebd2c22138.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/9bb35095765f3e6c2d1cfb6b55a5be9d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/5ce5b5e0f0d4e888e1dcd688aa44d95d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/a4684448bb81e3e41b7cd4e2eb145aa3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/7f32812b232703c5b8796a16410fbaa7.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/04008ddca9ab859ce1c94f624be17fa2.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/4fc12f93194370b06ee25427c142ac19.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/8833ecd991acf0877e649de6e5d7f002.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/80cb0701a5057b59a230fa02cc30576b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/de7affc55dc686c7a95ca0890092d969.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/e4d028ffe77c902ac676e528182aad25.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/7921654b9baa346d8c982814b3fa15e6.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/a35cd4e5ea101b6e23681086e82c7187.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/d5e85467e2f311d4c45e0bdb80c142bb.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/88915f38d2a89953e995939e96cdd3c6.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/51c94593afdf30028d79761fb2f094a7.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB932241/c9015768c98a91c5fee1ccd86dfd34b7.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50+</Model>
+		<GenerationId>22573975</GenerationId>
+		<ModificationId>22573976</ModificationId>
+		<ComplectationId>22574454</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z6TB932241</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>45240ee98d4ce44e5a39df719860414f</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -3996,6 +3991,115 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8722Z6TB316052</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>e91bb1236f14d3dc4e1c85c3fc726992</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Самара официальный дилер BELGEE
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     BELGEE Х70 Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
+Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
+✅ Предлoжeние ограничено.
+
+
+Цена 2’320 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 285 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’700 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 240 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 110 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>2365990</Price>
+		<TradeinDiscount>110000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount>29990</InsuranceDiscount>
+		<MaxDiscount>425990</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/3a2d91d5a989928accb9774d322a4f81.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/24c7501b145b0ded23fd26718d938369.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/31d3b876abf108b60da0cf2815b6444d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/de9eefd514ef0df48f62ecc5cc9c1055.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/6e5306c4598b47df4cb92d926ec6495e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/778e6c389d6a8b29fb8888907ed82bb4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/00dfc7ed2b97b1fccb34bc19970b37ec.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/9fb4241b87a5b562377c8956646d4374.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/7f75a44adf35895997f9bac3235150d8.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/40bd9da38a7ea2adbde86c5009a207b9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/9048ea77082b23fadcbb8e34a3d95bfe.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/513cfc136677d199c48eb953604e4e0a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/ca50950e7bd8ed5efba87fe892e0b6ba.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/b96e94ca99081f8aae3e786a6c7075dc.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/ca18927f4bf8acd733baac720f86ceda.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/5cf5106acc3fedbadd9b1fb7d19bf203.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/6a491ddb9453c4634d10cca6972eb869.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/cefd17806acaac63573048f16fb691e3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/d1ec0076ce0a98d3bab687c8109c06cc.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22446053</GenerationId>
+		<ModificationId>22446574</ModificationId>
+		<ComplectationId>22544967</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722Z7TB313290</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -4214,115 +4318,6 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8722Z3TB313254</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>e91bb1236f14d3dc4e1c85c3fc726992</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Партнер-Авто Самара официальный дилер BELGEE
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     BELGEE Х70 Стиль  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-✨ До 7 TО за 1 рубль — вaшa выгода пpи пoкупкe aвтo у наc!
-Эконoмия на oбcлуживании, гapaнтия кaчecтвa и спoкойствие за автoмобиль.
-✅ Предлoжeние ограничено.
-
-
-Цена 2’320 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 285 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’700 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 240 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 110 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>2365990</Price>
-		<TradeinDiscount>110000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount>29990</InsuranceDiscount>
-		<MaxDiscount>425990</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/3a2d91d5a989928accb9774d322a4f81.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/24c7501b145b0ded23fd26718d938369.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/31d3b876abf108b60da0cf2815b6444d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/de9eefd514ef0df48f62ecc5cc9c1055.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/6e5306c4598b47df4cb92d926ec6495e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/778e6c389d6a8b29fb8888907ed82bb4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/00dfc7ed2b97b1fccb34bc19970b37ec.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/9fb4241b87a5b562377c8956646d4374.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/7f75a44adf35895997f9bac3235150d8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/40bd9da38a7ea2adbde86c5009a207b9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/9048ea77082b23fadcbb8e34a3d95bfe.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/513cfc136677d199c48eb953604e4e0a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/ca50950e7bd8ed5efba87fe892e0b6ba.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/b96e94ca99081f8aae3e786a6c7075dc.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/ca18927f4bf8acd733baac720f86ceda.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/5cf5106acc3fedbadd9b1fb7d19bf203.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/6a491ddb9453c4634d10cca6972eb869.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/cefd17806acaac63573048f16fb691e3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z7TB313290/d1ec0076ce0a98d3bab687c8109c06cc.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X70</Model>
-		<GenerationId>22446053</GenerationId>
-		<ModificationId>22446574</ModificationId>
-		<ComplectationId>22544967</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8722Z7TB313290</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
