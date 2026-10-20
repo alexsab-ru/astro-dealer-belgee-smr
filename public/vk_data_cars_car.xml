@@ -41,6 +41,30 @@
       </images>
     </car>
     <car>
+      <unique_id>Y4K8622Z0TB946412</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z0TB946412</vin>
+      <price>2509990</price>
+      <sale_price>2020000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>489990</max_benefit>
+      <color>серый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z0TB946412/0/full.webp?v=8b3daca955fc</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z0TB946412/1/full.webp?v=e37cc00cbe46</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z0TB946412/2/full.webp?v=98e5ca0df669</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z0TB946412/3/full.webp?v=2c6f513fe8e9</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z0TB946412/4/full.webp?v=b1b5af46f1ae</image>
+      </images>
+    </car>
+    <car>
       <unique_id>Y4K8622Z1TB932177</unique_id>
       <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-white-2026/</url>
       <mark_id>Belgee</mark_id>
@@ -252,25 +276,35 @@
       <run>1</run>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
       <images>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/0/full.webp?v=8b549c5a0d87</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/1/full.webp?v=c97e3141af96</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/2/full.webp?v=a3d080d42b7a</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/3/full.webp?v=07f1630d6be9</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/4/full.webp?v=ccee793e4edc</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/5/full.webp?v=440c85de0566</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/6/full.webp?v=4959e7685546</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/7/full.webp?v=234d64a2a494</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/8/full.webp?v=5daa19e897ba</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/9/full.webp?v=a19271138b00</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/10/full.webp?v=d2cb1508c253</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/11/full.webp?v=58fc958ef6b9</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/12/full.webp?v=bec7a0dc0d19</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/13/full.webp?v=2291b0096abe</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/14/full.webp?v=e9bc4d619602</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/15/full.webp?v=742bb00e21d6</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/16/full.webp?v=e4dd4964bcd8</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/17/full.webp?v=847a812318ed</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/18/full.webp?v=eae4c6661ef0</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB945651/0/full.webp?v=8e00b6baf203</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB945651/1/full.webp?v=608dd1646439</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB945651/2/full.webp?v=970f75753b27</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB945651/3/full.webp?v=d2e407adcfcd</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB945651/4/full.webp?v=5be3acc34f0c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z3TB945819</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z3TB945819</vin>
+      <price>2699990</price>
+      <sale_price>2240000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>459990</max_benefit>
+      <color>серый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB945819/0/full.webp?v=5fa4fa210a0f</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB945819/1/full.webp?v=a05faaa9142a</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB945819/2/full.webp?v=599f5cb49d8c</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB945819/3/full.webp?v=db97dd6a527d</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB945819/4/full.webp?v=939ce5d64e8a</image>
       </images>
     </car>
     <car>
@@ -310,6 +344,78 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB941116/16/full.webp?v=32b9eaca4fac</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB941116/17/full.webp?v=152766e117d1</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB941116/18/full.webp?v=eea764cc8308</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z4TB944078</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z4TB944078</vin>
+      <price>2799990</price>
+      <sale_price>2340000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>459990</max_benefit>
+      <color>черный</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X50+, Оникс, 1.5 AMT (147 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB944078/0/full.webp?v=59395ca1c796</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB944078/1/full.webp?v=620c6180ebda</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB944078/2/full.webp?v=dcc84c08d24e</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB944078/3/full.webp?v=03480a067278</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB944078/4/full.webp?v=6ae2b5ce0145</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z4TB945599</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z4TB945599</vin>
+      <price>2699990</price>
+      <sale_price>2240000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>459990</max_benefit>
+      <color>серый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB945599/0/full.webp?v=c8169035458f</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB945599/1/full.webp?v=f44708b7b7b3</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB945599/2/full.webp?v=3b60ae2d840a</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB945599/3/full.webp?v=1152574f498f</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB945599/4/full.webp?v=ec25deeaa1f8</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z5TB942890</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z5TB942890</vin>
+      <price>2799990</price>
+      <sale_price>2340000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>459990</max_benefit>
+      <color>черный</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X50+, Оникс, 1.5 AMT (147 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z5TB942890/0/full.webp?v=aa9896a9b80f</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z5TB942890/1/full.webp?v=2486b15db91b</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z5TB942890/2/full.webp?v=366540186fb7</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z5TB942890/3/full.webp?v=0da63db271dc</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z5TB942890/4/full.webp?v=71320078ee53</image>
       </images>
     </car>
     <car>
@@ -547,44 +653,6 @@
       </images>
     </car>
     <car>
-      <unique_id>Y4K8622Z7TB941482</unique_id>
-      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-silver-2026/</url>
-      <mark_id>Belgee</mark_id>
-      <folder_id>X50+</folder_id>
-      <year>2026</year>
-      <vin>Y4K8622Z7TB941482</vin>
-      <price>2699990</price>
-      <sale_price>2240000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>459990</max_benefit>
-      <color>серебряный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>2</run>
-      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/0/full.webp?v=e504aa639176</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/1/full.webp?v=a08be7c7d0c6</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/2/full.webp?v=bc0ceee81fad</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/3/full.webp?v=c625f8831d48</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/4/full.webp?v=85b22c50f28e</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/5/full.webp?v=8cb2ff3d1427</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/6/full.webp?v=b779d2cb9018</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/7/full.webp?v=f8944e0959e5</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/8/full.webp?v=5d00345bd89f</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/9/full.webp?v=df1a367b538c</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/10/full.webp?v=7bee3400ad0d</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/11/full.webp?v=037b2eb8cd6a</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/12/full.webp?v=6dab9f8f44a2</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/13/full.webp?v=721d73b4ae06</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/14/full.webp?v=8198d71fa2dc</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/15/full.webp?v=d42a3fc0f08c</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/16/full.webp?v=47127f957845</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB941482/17/full.webp?v=7142f6bd4bc6</image>
-      </images>
-    </car>
-    <car>
       <unique_id>Y4K8622Z7TB943345</unique_id>
       <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-white-2026/</url>
       <mark_id>Belgee</mark_id>
@@ -698,6 +766,54 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB942849/16/full.webp?v=d7238ca1c8c4</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB942849/17/full.webp?v=020b30e263ae</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB942849/18/full.webp?v=332f2663d96b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z8TB942964</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z8TB942964</vin>
+      <price>2799990</price>
+      <sale_price>2340000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>459990</max_benefit>
+      <color>черный</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X50+, Оникс, 1.5 AMT (147 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB942964/0/full.webp?v=90a959e82695</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB942964/1/full.webp?v=d1dada324f36</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB942964/2/full.webp?v=6df648cb5809</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB942964/3/full.webp?v=31fca12bfce0</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB942964/4/full.webp?v=2919eef4a5f9</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z8TB946142</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z8TB946142</vin>
+      <price>2509990</price>
+      <sale_price>2020000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>489990</max_benefit>
+      <color>серый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB946142/0/full.webp?v=5f78c27d2768</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB946142/1/full.webp?v=3c500618541d</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB946142/2/full.webp?v=c07931b2eec3</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB946142/3/full.webp?v=5a27fa92da54</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB946142/4/full.webp?v=bb65b268df0c</image>
       </images>
     </car>
     <car>
@@ -1086,6 +1202,54 @@
       </images>
     </car>
     <car>
+      <unique_id>Y4K8622ZXTB946188</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622ZXTB946188</vin>
+      <price>2509990</price>
+      <sale_price>2020000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>489990</max_benefit>
+      <color>серый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622ZXTB946188/0/full.webp?v=1ee210876e7c</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622ZXTB946188/1/full.webp?v=e55e569eec7a</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622ZXTB946188/2/full.webp?v=201839882761</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622ZXTB946188/3/full.webp?v=d33ff45cc4fb</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622ZXTB946188/4/full.webp?v=181e24a92540</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D0TB318612</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-prestige-plus-blue-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D0TB318612</vin>
+      <price>3115990</price>
+      <sale_price>2620000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>495990</max_benefit>
+      <color>синий</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X70, I Рестайлинг, Престиж+, 1.5 AMT (150 л.с.) 4WD, 2026 г., синий</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D0TB318612/0/full.webp?v=0afdc8ed5bad</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D0TB318612/1/full.webp?v=adf4ae74e9ae</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D0TB318612/2/full.webp?v=ba5e171b01f6</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D0TB318612/3/full.webp?v=bfd5f274f6cc</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D0TB318612/4/full.webp?v=055ef578c45a</image>
+      </images>
+    </car>
+    <car>
       <unique_id>Y4K8722D1TB315881</unique_id>
       <url>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-prestige-plus-blue-2026/</url>
       <mark_id>Belgee</mark_id>
@@ -1122,6 +1286,78 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D1TB315881/16/full.webp?v=6dd4ae6a51da</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D1TB315881/17/full.webp?v=c8c2ca0084e4</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D1TB315881/18/full.webp?v=e861fc9f4ca5</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D4TB317334</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-style-white-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D4TB317334</vin>
+      <price>2839990</price>
+      <sale_price>2400000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>439990</max_benefit>
+      <color>белый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D4TB317334/0/full.webp?v=08900d8c6f57</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D4TB317334/1/full.webp?v=28663278d4da</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D4TB317334/2/full.webp?v=7412c423be77</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D4TB317334/3/full.webp?v=a5410befeac7</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D4TB317334/4/full.webp?v=99754868fd2e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D4TB319021</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-style-basalt-gray-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D4TB319021</vin>
+      <price>3039990</price>
+      <sale_price>2600000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>439990</max_benefit>
+      <color>серый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AMT (150 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D4TB319021/0/full.webp?v=352108459290</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D4TB319021/1/full.webp?v=cc6d059aa2c8</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D4TB319021/2/full.webp?v=718003f9f1c6</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D4TB319021/3/full.webp?v=326685d7553e</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D4TB319021/4/full.webp?v=017614332313</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D9TB319080</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-style-silver-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D9TB319080</vin>
+      <price>2839990</price>
+      <sale_price>2400000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>439990</max_benefit>
+      <color>серебряный</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AMT (150 л.с.) 4WD, 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319080/0/full.webp?v=3acb27c63744</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319080/1/full.webp?v=77674066e3d8</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319080/2/full.webp?v=43995fa9af2d</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319080/3/full.webp?v=b7d187d77b02</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319080/4/full.webp?v=913cd0bddc36</image>
       </images>
     </car>
     <car>
