@@ -943,6 +943,7 @@
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>459990</max_benefit>
       <color>серебряный</color>
+      <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <run>1</run>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
@@ -1096,6 +1097,7 @@
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>459990</max_benefit>
       <color>серый</color>
+      <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <run>1</run>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
@@ -2099,6 +2101,7 @@
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>439990</max_benefit>
       <color>белый</color>
+      <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <run>1</run>
       <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
