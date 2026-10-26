@@ -737,45 +737,6 @@
       </images>
     </car>
     <car>
-      <unique_id>Y4K8622Z1TB932177</unique_id>
-      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-white-2026/</url>
-      <mark_id>Belgee</mark_id>
-      <folder_id>X50+</folder_id>
-      <year>2026</year>
-      <vin>Y4K8622Z1TB932177</vin>
-      <price>2509990</price>
-      <sale_price>2020000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>489990</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>4</run>
-      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., белый</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/0/full.webp?v=ab0a2513d4a4</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/1/full.webp?v=c119e576fb02</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/2/full.webp?v=f86dfa9d4dc7</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/3/full.webp?v=f40067cbda11</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/4/full.webp?v=1401730b3854</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/5/full.webp?v=7556e3976e90</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/6/full.webp?v=55e6005e2a52</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/7/full.webp?v=52be9b54cb23</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/8/full.webp?v=5cbbcf90fcaf</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/9/full.webp?v=d937b2fc5839</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/10/full.webp?v=5828a201fcc0</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/11/full.webp?v=71281f573e03</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/12/full.webp?v=926bfc554d09</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/13/full.webp?v=e938d3b523be</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/14/full.webp?v=856f9dca7fee</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/15/full.webp?v=4e0e78794bcf</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/16/full.webp?v=b654abaf1a1a</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/17/full.webp?v=0782968798cf</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/18/full.webp?v=39cab2433db0</image>
-      </images>
-    </car>
-    <car>
       <unique_id>Y4K8622Z1TB936195</unique_id>
       <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-white-2026/</url>
       <mark_id>Belgee</mark_id>
@@ -1024,7 +985,7 @@
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>2</run>
+      <run>3</run>
       <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z4TB941116/0/full.webp?v=0b4c0980a7d3</image>

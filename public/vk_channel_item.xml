@@ -464,30 +464,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>Y4K8622Z1TB932177</id>
-    <link>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-white-2026/</link>
-    <brand>Belgee</brand>
-    <model>X50+</model>
-    <year>2026</year>
-    <title>Belgee X50+ Стиль 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB932177/0/full.webp?v=ab0a2513d4a4</image_link>
-    <price>2509990 RUB</price>
-    <sale_price>2020000 RUB</sale_price>
-    <min_price>2020000 RUB</min_price>
-    <max_price>2509990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>4</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8622Z1TB932177</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>Y4K8622Z1TB936195</id>
     <link>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-white-2026/</link>
     <brand>Belgee</brand>
@@ -647,7 +623,7 @@
     <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
     <exterior_color>Белый</exterior_color>
     <mileage>
-      <value>2</value>
+      <value>3</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
