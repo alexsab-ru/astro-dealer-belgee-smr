@@ -854,45 +854,6 @@
       </images>
     </car>
     <car>
-      <unique_id>Y4K8622Z2TB940112</unique_id>
-      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-silver-2026/</url>
-      <mark_id>Belgee</mark_id>
-      <folder_id>X50+</folder_id>
-      <year>2026</year>
-      <vin>Y4K8622Z2TB940112</vin>
-      <price>2699990</price>
-      <sale_price>2240000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>459990</max_benefit>
-      <color>серебряный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>3</run>
-      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/0/full.webp?v=8b549c5a0d87</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/1/full.webp?v=c97e3141af96</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/2/full.webp?v=a3d080d42b7a</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/3/full.webp?v=07f1630d6be9</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/4/full.webp?v=ccee793e4edc</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/5/full.webp?v=440c85de0566</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/6/full.webp?v=4959e7685546</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/7/full.webp?v=234d64a2a494</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/8/full.webp?v=5daa19e897ba</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/9/full.webp?v=a19271138b00</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/10/full.webp?v=d2cb1508c253</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/11/full.webp?v=58fc958ef6b9</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/12/full.webp?v=bec7a0dc0d19</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/13/full.webp?v=2291b0096abe</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/14/full.webp?v=e9bc4d619602</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/15/full.webp?v=742bb00e21d6</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/16/full.webp?v=e4dd4964bcd8</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/17/full.webp?v=847a812318ed</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB940112/18/full.webp?v=eae4c6661ef0</image>
-      </images>
-    </car>
-    <car>
       <unique_id>Y4K8622Z2TB945651</unique_id>
       <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-silver-2026/</url>
       <mark_id>Belgee</mark_id>
@@ -1672,45 +1633,6 @@
       </images>
     </car>
     <car>
-      <unique_id>Y4K8622Z9TB939510</unique_id>
-      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</url>
-      <mark_id>Belgee</mark_id>
-      <folder_id>X50+</folder_id>
-      <year>2026</year>
-      <vin>Y4K8622Z9TB939510</vin>
-      <price>2699990</price>
-      <sale_price>2240000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>459990</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>6</run>
-      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/0/full.webp?v=710854ce115f</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/1/full.webp?v=6d55e8758cd3</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/2/full.webp?v=2bf95d0faf0d</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/3/full.webp?v=fea14cb7f8ac</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/4/full.webp?v=fb8b4b84d320</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/5/full.webp?v=5fdf9ba52a74</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/6/full.webp?v=62f1c7f1ed3d</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/7/full.webp?v=ebd86f9c3af4</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/8/full.webp?v=3a6af3002bd5</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/9/full.webp?v=334ad823706c</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/10/full.webp?v=d6512ae130a9</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/11/full.webp?v=92d2b2427c75</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/12/full.webp?v=a93b4e296685</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/13/full.webp?v=24698ce26df3</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/14/full.webp?v=33dc7d5b8b03</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/15/full.webp?v=7e75eeaab3ef</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/16/full.webp?v=c4fccbfb8851</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/17/full.webp?v=2bd308b36ece</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB939510/18/full.webp?v=60e356d00613</image>
-      </images>
-    </car>
-    <car>
       <unique_id>Y4K8622Z9TB940124</unique_id>
       <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-silver-2026/</url>
       <mark_id>Belgee</mark_id>
@@ -2163,6 +2085,11 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722DXTB318830/7/full.webp?v=2ada4368bb3b</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722DXTB318830/8/full.webp?v=02329fe6d0d6</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722DXTB318830/9/full.webp?v=590c811d1257</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722DXTB318830/10/full.webp?v=2fd63b1a207b</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722DXTB318830/11/full.webp?v=4c4882a0b32d</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722DXTB318830/12/full.webp?v=ad586584114b</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722DXTB318830/13/full.webp?v=c4e890dfd62b</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722DXTB318830/14/full.webp?v=0fd5c51a2bf6</image>
       </images>
     </car>
     <car>
@@ -2271,6 +2198,11 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8824Z0TB215678/7/full.webp?v=3d9320ab056e</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8824Z0TB215678/8/full.webp?v=eabd7f1fd2c8</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8824Z0TB215678/9/full.webp?v=8c7743a1cf95</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8824Z0TB215678/10/full.webp?v=2af3e36c1d1b</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8824Z0TB215678/11/full.webp?v=735918c8b677</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8824Z0TB215678/12/full.webp?v=586f3249d5ee</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8824Z0TB215678/13/full.webp?v=8d212c2d79cf</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8824Z0TB215678/14/full.webp?v=c25b759d92c1</image>
       </images>
     </car>
   </cars>
