@@ -1400,30 +1400,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>Y4K8722Z1TB314970</id>
-    <link>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-at-150-hp-style-silver-2026/</link>
-    <brand>Belgee</brand>
-    <model>X70, I Рестайлинг</model>
-    <year>2026</year>
-    <title>Belgee X70, I Рестайлинг Стиль 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z1TB314970/0/full.webp?v=c02f1a4352a4</image_link>
-    <price>2745990 RUB</price>
-    <sale_price>2320000 RUB</sale_price>
-    <min_price>2320000 RUB</min_price>
-    <max_price>2745990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AT (150 л.с.), 2026 г.</description>
-    <exterior_color>СЕРЕБРИСТЫЙ</exterior_color>
-    <mileage>
-      <value>3</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8722Z1TB314970</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>Y4K8722Z7TB313290</id>
     <link>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-at-150-hp-style-white-2026/</link>
     <brand>Belgee</brand>
@@ -1449,21 +1425,21 @@
   </item>
   <item>
     <id>Y4K8824Z0TB215678</id>
-    <link>https://belgee-smr.ru/cars/belgee-s50-15-at-122-hp-prestige-basalt-grey-2026/</link>
+    <link>https://belgee-smr.ru/cars/belgee-s50-15-at-122-hp-prestige-2025-basalt-grey-2026/</link>
     <brand>Belgee</brand>
     <model>S50</model>
     <year>2026</year>
-    <title>Belgee S50 Престиж 2026</title>
+    <title>Belgee S50 Престиж (2025) 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8824Z0TB215678/0/full.webp?v=b8ddb67b83ac</image_link>
     <price>2345990 RUB</price>
     <sale_price>1950000 RUB</sale_price>
     <min_price>1950000 RUB</min_price>
     <max_price>2345990 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee S50, Престиж, 1.5 AT (122 л.с.), 2026 г.</description>
+    <description>Автомобиль Belgee S50, Престиж (2025), 1.5 AT (122 л.с.), 2026 г.</description>
     <exterior_color>Серый</exterior_color>
     <mileage>
-      <value>2</value>
+      <value>3</value>
       <unit>KM</unit>
     </mileage>
     <body_style>sedan</body_style>
