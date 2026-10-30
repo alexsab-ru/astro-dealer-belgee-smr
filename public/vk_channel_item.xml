@@ -518,7 +518,7 @@
     <model>X50+</model>
     <year>2026</year>
     <title>Belgee X50+ Стиль 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z0TB946412/0/full.webp?v=8b3daca955fc</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/0/full.webp?v=4d4a89cf5cdd</image_link>
     <price>2509990 RUB</price>
     <sale_price>2020000 RUB</sale_price>
     <min_price>2020000 RUB</min_price>
@@ -566,7 +566,7 @@
     <model>X50+</model>
     <year>2026</year>
     <title>Belgee X50+ Оникс 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB9314569/0/full.webp?v=bcff40116982</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB941437/0/full.webp?v=a7a4720358eb</image_link>
     <price>2799990 RUB</price>
     <sale_price>2340000 RUB</sale_price>
     <min_price>2340000 RUB</min_price>
@@ -878,7 +878,7 @@
     <model>X50+</model>
     <year>2026</year>
     <title>Belgee X50+ Престиж 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB945819/0/full.webp?v=5fa4fa210a0f</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB947766/0/full.webp?v=cb1e0b089ead</image_link>
     <price>2699990 RUB</price>
     <sale_price>2240000 RUB</sale_price>
     <min_price>2240000 RUB</min_price>
@@ -1214,7 +1214,7 @@
     <model>X50+</model>
     <year>2026</year>
     <title>Belgee X50+ Престиж 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB945819/0/full.webp?v=5fa4fa210a0f</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z5TB949585/0/full.webp?v=ac2d41963895</image_link>
     <price>2699990 RUB</price>
     <sale_price>2240000 RUB</sale_price>
     <min_price>2240000 RUB</min_price>
@@ -1238,7 +1238,7 @@
     <model>X50+</model>
     <year>2026</year>
     <title>Belgee X50+ Престиж 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB945819/0/full.webp?v=5fa4fa210a0f</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB949563/0/full.webp?v=845f235ede35</image_link>
     <price>2699990 RUB</price>
     <sale_price>2240000 RUB</sale_price>
     <min_price>2240000 RUB</min_price>
@@ -1396,6 +1396,54 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>Y4K8722DXTB318830</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Y4K8722Z0TB318752</id>
+    <link>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-at-150-hp-active-4wd-basalt-gray-2026/</link>
+    <brand>Belgee</brand>
+    <model>X70, I Рестайлинг</model>
+    <year>2026</year>
+    <title>Belgee X70, I Рестайлинг Актив 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z0TB318752/0/full.webp?v=fbf550e81b74</image_link>
+    <price>2609990 RUB</price>
+    <sale_price>2220000 RUB</sale_price>
+    <min_price>2220000 RUB</min_price>
+    <max_price>2609990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X70, I Рестайлинг, Актив, 1.5 AT (150 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Y4K8722Z0TB318752</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Y4K8722Z3TB318793</id>
+    <link>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-at-150-hp-active-4wd-basalt-gray-2026/</link>
+    <brand>Belgee</brand>
+    <model>X70, I Рестайлинг</model>
+    <year>2026</year>
+    <title>Belgee X70, I Рестайлинг Актив 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z3TB318793/0/full.webp?v=4b32cd48a495</image_link>
+    <price>2575990 RUB</price>
+    <sale_price>2186000 RUB</sale_price>
+    <min_price>2186000 RUB</min_price>
+    <max_price>2575990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X70, I Рестайлинг, Актив, 1.5 AT (150 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Y4K8722Z3TB318793</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
