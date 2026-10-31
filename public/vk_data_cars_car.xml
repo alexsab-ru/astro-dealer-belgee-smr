@@ -846,6 +846,10 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/12/full.webp?v=fc5707b974be</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/13/full.webp?v=443af61ca76b</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/14/full.webp?v=0fcbceee9732</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/15/full.webp?v=8062976c06e8</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/16/full.webp?v=e2fe9da4a541</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/17/full.webp?v=fab74c0b793a</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/18/full.webp?v=439870cfa7b9</image>
       </images>
     </car>
     <car>
@@ -919,6 +923,10 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB941437/12/full.webp?v=dd6e5a41fb54</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB941437/13/full.webp?v=68ff42fe2cca</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB941437/14/full.webp?v=fcde48aba170</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB941437/15/full.webp?v=f326fb070507</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB941437/16/full.webp?v=2668f6a5a5cf</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB941437/17/full.webp?v=7143524c6cab</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB941437/18/full.webp?v=39328f285438</image>
       </images>
     </car>
     <car>
@@ -1287,7 +1295,7 @@
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>3</run>
+      <run>4</run>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB922060/0/full.webp?v=7beb627ec8c3</image>
@@ -1421,6 +1429,10 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB947766/12/full.webp?v=1d6de9920c02</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB947766/13/full.webp?v=82dee4b0621f</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB947766/14/full.webp?v=569c9bd4e97b</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB947766/15/full.webp?v=8ff98beb7fa3</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB947766/16/full.webp?v=a0b93ae6b54b</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB947766/17/full.webp?v=aaedb16c261f</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8622Z7TB947766/18/full.webp?v=e255386902d5</image>
       </images>
     </car>
     <car>
@@ -1957,6 +1969,10 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z5TB949585/12/full.webp?v=f7c9717fb002</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z5TB949585/13/full.webp?v=932b862b9bfe</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z5TB949585/14/full.webp?v=9915cc8c4824</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z5TB949585/15/full.webp?v=91cd65833481</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z5TB949585/16/full.webp?v=93593743ae9c</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z5TB949585/17/full.webp?v=68080f2f6f9d</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z5TB949585/18/full.webp?v=0d7ebbfe3fd6</image>
       </images>
     </car>
     <car>
@@ -1991,6 +2007,10 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB949563/12/full.webp?v=9c126b332d03</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB949563/13/full.webp?v=0368e70b332f</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB949563/14/full.webp?v=c91a6eea94af</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB949563/15/full.webp?v=39a2681f19be</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB949563/16/full.webp?v=390db5723e7f</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB949563/17/full.webp?v=1bbb6970c65f</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB949563/18/full.webp?v=cd02b9609a6e</image>
       </images>
     </car>
     <car>
@@ -2172,6 +2192,11 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/2/full.webp?v=95fdbbf4b872</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/3/full.webp?v=bee9624893b0</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/4/full.webp?v=a8b2d08d22de</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/5/full.webp?v=863ce2d044b5</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/6/full.webp?v=cbf9d489ae1b</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/7/full.webp?v=a87c45246e58</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/8/full.webp?v=2ab5627dc2ff</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/9/full.webp?v=5904f4115bc8</image>
       </images>
     </car>
     <car>
@@ -2235,6 +2260,11 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/2/full.webp?v=4346cb91a9a0</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/3/full.webp?v=9ff350c314e5</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/4/full.webp?v=1dd3f19bfb7c</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/5/full.webp?v=ec30e9b698b3</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/6/full.webp?v=363a3c37fabe</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/7/full.webp?v=1afa4374840d</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/8/full.webp?v=2d2fb9f1954d</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/9/full.webp?v=beefba868e75</image>
       </images>
     </car>
     <car>
@@ -2290,7 +2320,7 @@
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>2</run>
+      <run>4</run>
       <description>Автомобиль Belgee X70, I Рестайлинг, Актив, 1.5 AT (150 л.с.), 2026 г., серый</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z0TB318752/0/full.webp?v=fbf550e81b74</image>
@@ -2308,6 +2338,9 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z0TB318752/12/full.webp?v=86cdea8a8d36</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z0TB318752/13/full.webp?v=f5697bbfd24d</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z0TB318752/14/full.webp?v=e218068192b8</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z0TB318752/15/full.webp?v=4ebc3f29b49e</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z0TB318752/16/full.webp?v=fd16e4df0e46</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z0TB318752/17/full.webp?v=b243eb7740c4</image>
       </images>
     </car>
     <car>
@@ -2317,8 +2350,8 @@
       <folder_id>X70, I Рестайлинг</folder_id>
       <year>2026</year>
       <vin>Y4K8722Z3TB318793</vin>
-      <price>2575990</price>
-      <sale_price>2186000</sale_price>
+      <price>2609990</price>
+      <sale_price>2220000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>389990</max_benefit>
@@ -2343,6 +2376,9 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z3TB318793/12/full.webp?v=f15ec093cf56</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z3TB318793/13/full.webp?v=e79387cda1d9</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z3TB318793/14/full.webp?v=712827e788a4</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z3TB318793/15/full.webp?v=990f2610a5df</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z3TB318793/16/full.webp?v=f5a88e8b22a4</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722Z3TB318793/17/full.webp?v=3ec41406ddd6</image>
       </images>
     </car>
     <car>
