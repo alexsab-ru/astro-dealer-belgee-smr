@@ -2164,6 +2164,9 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/12/full.webp?v=f51cf9314d6c</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/13/full.webp?v=32f0646fff70</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/14/full.webp?v=e9f65af7854d</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/15/full.webp?v=8baec2626312</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/16/full.webp?v=f71f726dfd57</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/17/full.webp?v=10363b2f0a92</image>
       </images>
     </car>
     <car>
@@ -2237,6 +2240,9 @@
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/12/full.webp?v=2ca00d9f15e3</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/13/full.webp?v=9cfdae028082</image>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/14/full.webp?v=ff19320c0524</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/15/full.webp?v=9cda2438377a</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/16/full.webp?v=be628dae0f3c</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319838/17/full.webp?v=d7674aca15b2</image>
       </images>
     </car>
     <car>
@@ -2369,7 +2375,7 @@
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Седан</body_type>
-      <run>3</run>
+      <run>4</run>
       <description>Автомобиль Belgee S50, Престиж (2025), 1.5 AT (122 л.с.), 2026 г., серый</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8824Z0TB215678/0/full.webp?v=b8ddb67b83ac</image>
