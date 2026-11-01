@@ -1471,28 +1471,4 @@
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
-  <item>
-    <id>Y4K8824Z0TB215678</id>
-    <link>https://belgee-smr.ru/cars/belgee-s50-15-at-122-hp-prestige-2025-basalt-grey-2026/</link>
-    <brand>Belgee</brand>
-    <model>S50</model>
-    <year>2026</year>
-    <title>Belgee S50 Престиж (2025) 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-smr.ru/new/Y4K8824Z0TB215678/0/full.webp?v=b8ddb67b83ac</image_link>
-    <price>2345990 RUB</price>
-    <sale_price>1950000 RUB</sale_price>
-    <min_price>1950000 RUB</min_price>
-    <max_price>2345990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee S50, Престиж (2025), 1.5 AT (122 л.с.), 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>4</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>sedan</body_style>
-    <vin>Y4K8824Z0TB215678</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
 </channel>
