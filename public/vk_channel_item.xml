@@ -410,30 +410,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>Y4K8622Z8TB940759</id>
-    <link>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-white-2026/</link>
-    <brand>Belgee</brand>
-    <model>X50+</model>
-    <year>2026</year>
-    <title>Belgee X50+ Престиж 2026</title>
-    <image_link>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB940759/0/full.webp?v=4129f0874b05</image_link>
-    <price>2699990 RUB</price>
-    <sale_price>2240000 RUB</sale_price>
-    <min_price>2240000 RUB</min_price>
-    <max_price>2699990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>2</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8622Z8TB940759</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>Y4K8622Z8TB942849</id>
     <link>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-silver-2026/</link>
     <brand>Belgee</brand>
@@ -646,30 +622,6 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>Y4K8622Z9TB943346</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>Y4K8622Z9TB943430</id>
-    <link>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-silver-2026/</link>
-    <brand>Belgee</brand>
-    <model>X50+</model>
-    <year>2026</year>
-    <title>Belgee X50+ Стиль 2026</title>
-    <image_link>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB943430/0/full.webp?v=a1cf78053a25</image_link>
-    <price>2509990 RUB</price>
-    <sale_price>2020000 RUB</sale_price>
-    <min_price>2020000 RUB</min_price>
-    <max_price>2509990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>Серебристый</exterior_color>
-    <mileage>
-      <value>4</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8622Z9TB943430</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
