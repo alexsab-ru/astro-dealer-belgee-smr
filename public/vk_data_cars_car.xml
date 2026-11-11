@@ -236,6 +236,27 @@
       </images>
     </car>
     <car>
+      <unique_id>Y4K8622Z2TB941809</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-red-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z2TB941809</vin>
+      <price>2509990</price>
+      <sale_price>2020000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>489990</max_benefit>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>3</run>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB941809/0/full.webp?v=7cfcf0610c81</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB941809/1/full.webp?v=95ccb1c24879</image>
+      </images>
+    </car>
+    <car>
       <unique_id>Y4K8622Z2TB945651</unique_id>
       <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-silver-2026/</url>
       <mark_id>Belgee</mark_id>
@@ -392,6 +413,27 @@
       </images>
     </car>
     <car>
+      <unique_id>Y4K8622Z5TB941786</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-red-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z5TB941786</vin>
+      <price>2509990</price>
+      <sale_price>2020000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>489990</max_benefit>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z5TB941786/0/full.webp?v=d3985f361e37</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z5TB941786/1/full.webp?v=c02c02b59f9d</image>
+      </images>
+    </car>
+    <car>
       <unique_id>Y4K8622Z5TB942890</unique_id>
       <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</url>
       <mark_id>Belgee</mark_id>
@@ -545,6 +587,28 @@
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z6TB936161/16/full.webp?v=2a05f630c536</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z6TB936161/17/full.webp?v=bb1c0615186d</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z6TB936161/18/full.webp?v=46e6f2d39519</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z6TBB01437</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-i-facelift-15-at-122-hp-active-4wd-white-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z6TBB01437</vin>
+      <price>2199990</price>
+      <sale_price>1800000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>399990</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>3</run>
+      <description>Автомобиль Belgee X50, I Рестайлинг, Актив, 1.5 AT (122 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z6TBB01437/0/full.webp?v=c3992db00c2c</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z6TBB01437/1/full.webp?v=626f07efb5bf</image>
       </images>
     </car>
     <car>
@@ -780,6 +844,27 @@
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB946142/16/full.webp?v=a660d0155fb0</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB946142/17/full.webp?v=e699867a91b1</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB946142/18/full.webp?v=2db1930fc86d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z8TBB01763</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-i-facelift-15-at-122-hp-active-4wd-white-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z8TBB01763</vin>
+      <price>2199990</price>
+      <sale_price>1800000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>399990</max_benefit>
+      <color>белый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Belgee X50, I Рестайлинг, Актив, 1.5 AT (122 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z8TBB01763/0/full.webp?v=ff5cbc5305d2</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z8TBB01763/1/full.webp?v=29ae80178390</image>
       </images>
     </car>
     <car>

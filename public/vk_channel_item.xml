@@ -146,6 +146,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>Y4K8622Z2TB941809</id>
+    <link>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-red-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50+</model>
+    <year>2026</year>
+    <title>Belgee X50+ Стиль 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z2TB941809/0/full.webp?v=7cfcf0610c81</image_link>
+    <price>2509990 RUB</price>
+    <sale_price>2020000 RUB</sale_price>
+    <min_price>2020000 RUB</min_price>
+    <max_price>2509990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Ярко-алый</exterior_color>
+    <mileage>
+      <value>3</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Y4K8622Z2TB941809</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>Y4K8622Z2TB945651</id>
     <link>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-silver-2026/</link>
     <brand>Belgee</brand>
@@ -242,6 +266,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>Y4K8622Z5TB941786</id>
+    <link>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-red-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50+</model>
+    <year>2026</year>
+    <title>Belgee X50+ Стиль 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z5TB941786/0/full.webp?v=d3985f361e37</image_link>
+    <price>2509990 RUB</price>
+    <sale_price>2020000 RUB</sale_price>
+    <min_price>2020000 RUB</min_price>
+    <max_price>2509990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Ярко-алый</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Y4K8622Z5TB941786</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>Y4K8622Z5TB942890</id>
     <link>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</link>
     <brand>Belgee</brand>
@@ -334,6 +382,30 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>Y4K8622Z6TB936161</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Y4K8622Z6TBB01437</id>
+    <link>https://belgee-smr.ru/cars/belgee-x50-i-facelift-15-at-122-hp-active-4wd-white-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50, I Рестайлинг</model>
+    <year>2026</year>
+    <title>Belgee X50, I Рестайлинг Актив 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z6TBB01437/0/full.webp?v=c3992db00c2c</image_link>
+    <price>2199990 RUB</price>
+    <sale_price>1800000 RUB</sale_price>
+    <min_price>1800000 RUB</min_price>
+    <max_price>2199990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50, I Рестайлинг, Актив, 1.5 AT (122 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>3</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Y4K8622Z6TBB01437</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -479,6 +551,30 @@
     <body_style>suv</body_style>
     <vin>Y4K8622Z8TB946142</vin>
     <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Y4K8622Z8TBB01763</id>
+    <link>https://belgee-smr.ru/cars/belgee-x50-i-facelift-15-at-122-hp-active-4wd-white-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50, I Рестайлинг</model>
+    <year>2026</year>
+    <title>Belgee X50, I Рестайлинг Актив 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z8TBB01763/0/full.webp?v=ff5cbc5305d2</image_link>
+    <price>2199990 RUB</price>
+    <sale_price>1800000 RUB</sale_price>
+    <min_price>1800000 RUB</min_price>
+    <max_price>2199990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50, I Рестайлинг, Актив, 1.5 AT (122 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>1</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Y4K8622Z8TBB01763</vin>
+    <availability>на заказ</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
