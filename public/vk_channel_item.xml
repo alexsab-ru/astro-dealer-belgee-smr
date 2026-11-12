@@ -890,30 +890,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>Y4K8722D9TB319080</id>
-    <link>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-style-silver-2026/</link>
-    <brand>Belgee</brand>
-    <model>X70, I Рестайлинг</model>
-    <year>2026</year>
-    <title>Belgee X70, I Рестайлинг Стиль 2026</title>
-    <image_link>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB319080/0/full.webp?v=bd3413b843bf</image_link>
-    <price>2839990 RUB</price>
-    <sale_price>2400000 RUB</sale_price>
-    <min_price>2400000 RUB</min_price>
-    <max_price>2839990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Серебристый</exterior_color>
-    <mileage>
-      <value>1</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8722D9TB319080</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>Y4K8722D9TB319838</id>
     <link>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-prestige-white-2026/</link>
     <brand>Belgee</brand>
