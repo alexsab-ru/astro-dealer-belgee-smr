@@ -810,45 +810,6 @@
       </images>
     </car>
     <car>
-      <unique_id>Y4K8622Z1TB947522</unique_id>
-      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-grey-2026/</url>
-      <mark_id>Belgee</mark_id>
-      <folder_id>X50+</folder_id>
-      <year>2026</year>
-      <vin>Y4K8622Z1TB947522</vin>
-      <price>2509990</price>
-      <sale_price>2020000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>489990</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>2</run>
-      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/0/full.webp?v=b64f08c75756</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/1/full.webp?v=12f3090de185</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/2/full.webp?v=e924a3c390fd</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/3/full.webp?v=a3593484dc9a</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/4/full.webp?v=306dde42a9a9</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/5/full.webp?v=eec130d09888</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/6/full.webp?v=ba6cd2055d5a</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/7/full.webp?v=4ef774f91e51</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/8/full.webp?v=358b93645689</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/9/full.webp?v=a126c5f3e505</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/10/full.webp?v=05988c210c40</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/11/full.webp?v=fa1481a5d9f0</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/12/full.webp?v=fc5707b974be</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/13/full.webp?v=443af61ca76b</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/14/full.webp?v=0fcbceee9732</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/15/full.webp?v=8062976c06e8</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/16/full.webp?v=e2fe9da4a541</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/17/full.webp?v=fab74c0b793a</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z1TB947522/18/full.webp?v=439870cfa7b9</image>
-      </images>
-    </car>
-    <car>
       <unique_id>Y4K8622Z2TB934651</unique_id>
       <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-white-2026/</url>
       <mark_id>Belgee</mark_id>
@@ -1940,8 +1901,8 @@
       <folder_id>X70, I Рестайлинг</folder_id>
       <year>2026</year>
       <vin>Y4K8722D4TB319021</vin>
-      <price>3039990</price>
-      <sale_price>2600000</sale_price>
+      <price>2839990</price>
+      <sale_price>2400000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>439990</max_benefit>
