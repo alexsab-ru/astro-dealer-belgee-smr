@@ -562,7 +562,7 @@
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>2</run>
+      <run>3</run>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
       <images>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z8TB942849/0/full.webp?v=86166ce56fe0</image>
@@ -1084,44 +1084,6 @@
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB319021/16/full.webp?v=14c44f7f5476</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB319021/17/full.webp?v=b5a693aa76aa</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB319021/18/full.webp?v=c7aca88dc8e1</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Y4K8722D9TB318866</unique_id>
-      <url>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-prestige-black-2026/</url>
-      <mark_id>Belgee</mark_id>
-      <folder_id>X70, I Рестайлинг</folder_id>
-      <year>2026</year>
-      <vin>Y4K8722D9TB318866</vin>
-      <price>3039990</price>
-      <sale_price>2520000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>519990</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>2</run>
-      <description>Автомобиль Belgee X70, I Рестайлинг, Престиж, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/0/full.webp?v=bbf703c4f3f9</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/1/full.webp?v=09301f7ac164</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/2/full.webp?v=95fdbbf4b872</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/3/full.webp?v=bee9624893b0</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/4/full.webp?v=a8b2d08d22de</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/5/full.webp?v=863ce2d044b5</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/6/full.webp?v=cbf9d489ae1b</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/7/full.webp?v=a87c45246e58</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/8/full.webp?v=2ab5627dc2ff</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/9/full.webp?v=5904f4115bc8</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/10/full.webp?v=b58e3fc09e21</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/11/full.webp?v=32271d605662</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/12/full.webp?v=f51cf9314d6c</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/13/full.webp?v=32f0646fff70</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/14/full.webp?v=e9f65af7854d</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/15/full.webp?v=8baec2626312</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/16/full.webp?v=f71f726dfd57</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D9TB318866/17/full.webp?v=10363b2f0a92</image>
       </images>
     </car>
     <car>
