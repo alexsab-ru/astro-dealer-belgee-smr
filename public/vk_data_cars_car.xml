@@ -220,6 +220,8 @@
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB950082/5/full.webp?v=086b46665c35</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB950082/6/full.webp?v=9ca9f688f918</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB950082/7/full.webp?v=9dfb5bef9b2d</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB950082/8/full.webp?v=0e8389d5723e</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB950082/9/full.webp?v=00500d587476</image>
       </images>
     </car>
     <car>
@@ -699,10 +701,10 @@
       <year>2026</year>
       <vin>Y4K8622Z9TB936204</vin>
       <price>2509990</price>
-      <sale_price>2020000</sale_price>
+      <sale_price>2409990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>489990</max_benefit>
+      <max_benefit>100000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -869,6 +871,8 @@
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB950082/5/full.webp?v=086b46665c35</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB950082/6/full.webp?v=9ca9f688f918</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB950082/7/full.webp?v=9dfb5bef9b2d</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB950082/8/full.webp?v=0e8389d5723e</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z3TB950082/9/full.webp?v=00500d587476</image>
       </images>
     </car>
     <car>
@@ -974,6 +978,8 @@
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB950406/5/full.webp?v=0cc7b1c934fb</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB950406/6/full.webp?v=3e7a43f31db3</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB950406/7/full.webp?v=71b562eccb98</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB950406/8/full.webp?v=85e09275640b</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z6TB950406/9/full.webp?v=75aa921911ea</image>
       </images>
     </car>
     <car>
@@ -1002,6 +1008,8 @@
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/5/full.webp?v=0dc706ee6d44</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/6/full.webp?v=d256181edf75</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/7/full.webp?v=ae406b3134a9</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/8/full.webp?v=f64c65246e79</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/9/full.webp?v=5b5c2f1930b9</image>
       </images>
     </car>
     <car>
@@ -1185,34 +1193,8 @@
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321475/5/full.webp?v=380b53416dde</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321475/6/full.webp?v=46c345433d1e</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321475/7/full.webp?v=a9f8a1f414b9</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Y4K8722Z4TB321914</unique_id>
-      <url>https://belgee-smr.ru/cars/belgee-x70-i-facelift-15-at-150-hp-style-basalt-gray-2026/</url>
-      <mark_id>Belgee</mark_id>
-      <folder_id>X70, I Рестайлинг</folder_id>
-      <year>2026</year>
-      <vin>Y4K8722Z4TB321914</vin>
-      <price>2745990</price>
-      <sale_price>2320000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>425990</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>2</run>
-      <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AT (150 л.с.), 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321914/0/full.webp?v=58a7c85506ca</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321914/1/full.webp?v=4f2c0724029c</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321914/2/full.webp?v=e57e903b23e4</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321914/3/full.webp?v=4614033bc043</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321914/4/full.webp?v=1c42dba0eef9</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321914/5/full.webp?v=995c9cd77487</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321914/6/full.webp?v=7a19f7afffb0</image>
-        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321914/7/full.webp?v=aadf5f77a141</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321475/8/full.webp?v=79b5fd3425ac</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722Z4TB321475/9/full.webp?v=b72773452a94</image>
       </images>
     </car>
     <car>
@@ -1240,6 +1222,8 @@
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722ZXTB321335/5/full.webp?v=819a24b2780c</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722ZXTB321335/6/full.webp?v=de0edaef1a97</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722ZXTB321335/7/full.webp?v=5aafb06d18d6</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722ZXTB321335/8/full.webp?v=7fcfd3ac98fb</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722ZXTB321335/9/full.webp?v=e761819f416b</image>
       </images>
     </car>
     <car>
@@ -1268,6 +1252,436 @@
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216840/5/full.webp?v=12cf34a9603c</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216840/6/full.webp?v=ba40c192dfea</image>
         <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216840/7/full.webp?v=9042466a3b48</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216840/8/full.webp?v=82b3caf175ea</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216840/9/full.webp?v=b4846180b7b0</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z9TB845691</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-active-4wd-white-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z9TB845691</vin>
+      <price>2319990</price>
+      <sale_price>2119990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>200000</max_benefit>
+      <color>белый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X50+, Актив, 1.5 AMT (147 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB845691/0/full.webp?v=a30ee2ca5c32</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB845691/1/full.webp?v=4c4642f3e6dd</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z9TB913367</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z9TB913367</vin>
+      <price>2509990</price>
+      <sale_price>2020000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>489990</max_benefit>
+      <color>серый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB913367/0/full.webp?v=191349a9b1ed</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB913367/1/full.webp?v=ac03c7c51bc8</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z9TB918505</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-active-4wd-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z9TB918505</vin>
+      <price>2319990</price>
+      <sale_price>2119990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>200000</max_benefit>
+      <color>серый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X50+, Актив, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB918505/0/full.webp?v=d5c2d6a2be9d</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB918505/1/full.webp?v=36427d5772b4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z9TB935611</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z9TB935611</vin>
+      <price>2799990</price>
+      <sale_price>2340000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>459990</max_benefit>
+      <color>черный</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X50+, Оникс, 1.5 AMT (147 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB935611/0/full.webp?v=beedce9e7626</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB935611/1/full.webp?v=d9137eb379ae</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z9TB936994</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-style-black-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z9TB936994</vin>
+      <price>2509990</price>
+      <sale_price>2020000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>489990</max_benefit>
+      <color>черный</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB936994/0/full.webp?v=4e81b2799c8a</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB936994/1/full.webp?v=40cddab8247c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z9TB946382</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-white-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z9TB946382</vin>
+      <price>2699990</price>
+      <sale_price>2240000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>459990</max_benefit>
+      <color>белый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB946382/0/full.webp?v=58ae2389089d</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8622Z9TB946382/1/full.webp?v=e7e1609ba26a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z9TB950203</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z9TB950203</vin>
+      <price>2699990</price>
+      <sale_price>2240000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>459990</max_benefit>
+      <color>серый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/0/full.webp?v=13bb5dcca7e1</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/1/full.webp?v=73a5b9ca72e5</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/2/full.webp?v=40d6de7f8e4f</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/3/full.webp?v=27e2e323b9f6</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/4/full.webp?v=48d8e3f7c163</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/5/full.webp?v=0dc706ee6d44</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/6/full.webp?v=d256181edf75</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/7/full.webp?v=ae406b3134a9</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/8/full.webp?v=f64c65246e79</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K86C2Z7TB951211/9/full.webp?v=5b5c2f1930b9</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D4TB317509</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x70-15t-4wd-dct-150-hp-style-gray-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D4TB317509</vin>
+      <price>2839990</price>
+      <sale_price>2400000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>439990</max_benefit>
+      <color>серый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X70, Стиль, 1.5T 4WD DCT (150 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB317509/0/full.webp?v=e52218a8f98a</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB317509/1/full.webp?v=a55f81659cb3</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D4TB3185497</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x70-15t-4wd-dct-150-hp-style-silver-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D4TB3185497</vin>
+      <price>2839990</price>
+      <sale_price>2400000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>439990</max_benefit>
+      <color>серебряный</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X70, Стиль, 1.5T 4WD DCT (150 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB3185497/0/full.webp?v=4e1757f846a2</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB3185497/1/full.webp?v=097988d0d694</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D4TB319520</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x70-15t-4wd-dct-150-hp-prestige-blue-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D4TB319520</vin>
+      <price>3039990</price>
+      <sale_price>2520000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>519990</max_benefit>
+      <color>синий</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X70, Престиж, 1.5T 4WD DCT (150 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB319520/0/full.webp?v=27122a53d49b</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB319520/1/full.webp?v=51026eee6ccc</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D4TB320361</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x70-15t-at-150-hp-active-white-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D4TB320361</vin>
+      <price>2609990</price>
+      <sale_price>2429990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>180000</max_benefit>
+      <color>белый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X70, Актив, 1.5T AT (150 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB320361/0/full.webp?v=edee4c2ecea0</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB320361/1/full.webp?v=2f24670430b1</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D4TB322907</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x70-15t-4wd-dct-150-hp-prestige-plus-blue-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D4TB322907</vin>
+      <price>3115990</price>
+      <sale_price>2620000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>495990</max_benefit>
+      <color>синий</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X70, Престиж+, 1.5T 4WD DCT (150 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB322907/0/full.webp?v=27122a53d49b</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB322907/1/full.webp?v=51026eee6ccc</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D4TB330894</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x70-15t-at-150-hp-style-gray-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D4TB330894</vin>
+      <price>2745990</price>
+      <sale_price>2320000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>425990</max_benefit>
+      <color>серый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X70, Стиль, 1.5T AT (150 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB330894/0/full.webp?v=e52218a8f98a</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB330894/1/full.webp?v=a55f81659cb3</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D4TB331213</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-x70-15t-at-150-hp-style-silver-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D4TB331213</vin>
+      <price>2745990</price>
+      <sale_price>2320000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>425990</max_benefit>
+      <color>серебряный</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee X70, Стиль, 1.5T AT (150 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB331213/0/full.webp?v=1201257383fa</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8722D4TB331213/1/full.webp?v=40381280142f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8824ZXTB215488</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-s50-15-at-122-hp-active-4wd-serenity-blue-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>S50</folder_id>
+      <year>2026</year>
+      <vin>Y4K8824ZXTB215488</vin>
+      <price>1929990</price>
+      <sale_price>1730000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>199990</max_benefit>
+      <color>синий</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee S50, Актив, 1.5 AT (122 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB215488/0/full.webp?v=091e08e3a900</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB215488/1/full.webp?v=d8b53df8249f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8824ZXTB216361</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-s50-15-at-122-hp-prestige-star-gray-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>S50</folder_id>
+      <year>2026</year>
+      <vin>Y4K8824ZXTB216361</vin>
+      <price>2345990</price>
+      <sale_price>1950000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>395990</max_benefit>
+      <color>голубой</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee S50, Престиж, 1.5 AT (122 л.с.), 2026 г., голубой</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216361/0/full.webp?v=559751754425</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216361/1/full.webp?v=85ae529ffc9e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8824ZXTB216661</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-s50-15-at-122-hp-style-crystal-white-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>S50</folder_id>
+      <year>2026</year>
+      <vin>Y4K8824ZXTB216661</vin>
+      <price>2165990</price>
+      <sale_price>1820000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>345990</max_benefit>
+      <color>белый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee S50, Стиль, 1.5 AT (122 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216661/0/full.webp?v=9c3bbe63bfa6</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216661/1/full.webp?v=b8da2ff72e7c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8824ZXTB216852</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-s50-15-at-122-hp-prestige-serenity-blue-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>S50</folder_id>
+      <year>2026</year>
+      <vin>Y4K8824ZXTB216852</vin>
+      <price>2345990</price>
+      <sale_price>1950000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>395990</max_benefit>
+      <color>синий</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee S50, Престиж, 1.5 AT (122 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216852/0/full.webp?v=b444dc3b6d98</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216852/1/full.webp?v=d00b45f2b378</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8824ZXTB216951</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-s50-15-at-122-hp-style-basalt-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>S50</folder_id>
+      <year>2026</year>
+      <vin>Y4K8824ZXTB216951</vin>
+      <price>2165990</price>
+      <sale_price>1820000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>345990</max_benefit>
+      <color>серый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee S50, Стиль, 1.5 AT (122 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216951/0/full.webp?v=a2e54fe57d38</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216951/1/full.webp?v=a74ab9c9fd68</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8824ZXTB216991</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-s50-15-at-122-hp-prestige-crystal-white-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>S50</folder_id>
+      <year>2026</year>
+      <vin>Y4K8824ZXTB216991</vin>
+      <price>2345990</price>
+      <sale_price>1950000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>395990</max_benefit>
+      <color>белый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee S50, Престиж, 1.5 AT (122 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216991/0/full.webp?v=82c6629fe34e</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB216991/1/full.webp?v=ebd80cbf24bf</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8824ZXTB217644</unique_id>
+      <url>https://belgee-smr.ru/cars/belgee-s50-15-at-122-hp-prestige-basalt-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>S50</folder_id>
+      <year>2026</year>
+      <vin>Y4K8824ZXTB217644</vin>
+      <price>2345990</price>
+      <sale_price>1950000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>395990</max_benefit>
+      <color>серый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Belgee S50, Престиж, 1.5 AT (122 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB217644/0/full.webp?v=4c783fea366b</image>
+        <image>https://img.upspace.ru/cars/belgee-smr.ru/new/Y4K8824ZXTB217644/1/full.webp?v=9c601574c60c</image>
       </images>
     </car>
   </cars>
