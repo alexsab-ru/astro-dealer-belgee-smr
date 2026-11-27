@@ -281,7 +281,7 @@
     <description>Автомобиль Belgee X50, I Рестайлинг, Актив, 1.5 AT (122 л.с.), 2026 г.</description>
     <exterior_color>Белый</exterior_color>
     <mileage>
-      <value>3</value>
+      <value>4</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
@@ -761,7 +761,7 @@
     <description>Автомобиль Belgee X70, I Рестайлинг, Актив, 1.5 AT (150 л.с.), 2026 г.</description>
     <exterior_color>Белый</exterior_color>
     <mileage>
-      <value>2</value>
+      <value>4</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
@@ -809,7 +809,7 @@
     <description>Автомобиль Belgee S50, Престиж (2025), 1.5 AT (122 л.с.), 2026 г.</description>
     <exterior_color>Белый</exterior_color>
     <mileage>
-      <value>2</value>
+      <value>3</value>
       <unit>KM</unit>
     </mileage>
     <body_style>sedan</body_style>
